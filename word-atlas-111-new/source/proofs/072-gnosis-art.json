@@ -1,0 +1,12 @@
+{
+  "stem": "072-gnosis",
+  "triangles": 117672,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.15944826388888889,
+  "render_seconds": 0.68,
+  "method": "local-procedural-3d"
+}

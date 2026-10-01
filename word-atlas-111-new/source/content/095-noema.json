@@ -1,0 +1,31 @@
+{
+  "index": 95,
+  "slug": "noema",
+  "word": "noema",
+  "pronunciation": "",
+  "tagline": "The object as intended is more than its bare inventory",
+  "definition": "In Husserlian phenomenology, the correlate of an intentional act: what is experienced as meant or intended, including its manner of presentation; scholars disagree about the term's exact relation to objects and meanings.",
+  "etymology": "From Greek noēma, a thought or what is thought, related to noein, to think; Husserl gives it a specialized phenomenological role.",
+  "sections": [
+    {
+      "heading": "What is meant in experience",
+      "text": "In Husserlian phenomenology, the noema is the correlate of an intentional act: what is meant or intended, including its manner of presentation. Remembering a tree and presently seeing it can concern the same tree while involving different modes of givenness and different expectations within the experience."
+    },
+    {
+      "heading": "Correlate does not mean photograph",
+      "text": "Calling the noema an internal mental picture can impose a theory the term need not entail. Noematic analysis concerns the object as intended and its sense, not simply a little duplicate observed inside consciousness. The relation to an external object remains a philosophical question requiring more precise argument."
+    },
+    {
+      "heading": "Interpretation is contested",
+      "text": "Scholars disagree about whether the noema is best understood as a kind of meaning, the object precisely as intended, or through distinctions sensitive to Husserl's changing terminology. A concise account should preserve that disagreement. One interpretive tradition cannot silently stand in for an uncontested definition accepted by everyone."
+    },
+    {
+      "heading": "An act and its correlate",
+      "text": "Noesis directs analysis toward the act-aspect of consciousness; noema directs it toward the corresponding object as meant. Separating these analytically does not cut experience into two independently functioning things. The distinction is useful because an act's character and its intended correlate can illuminate one another through careful description."
+    }
+  ],
+  "literary": "The remembered orchard bore no fruit for the mouth, yet its rememberedness ripened every branch, and she sought the tree precisely in the manner by which it was given to her.",
+  "art_caption": "Three framed presentations share a branching form while changing its mode of appearance; the object is considered as experienced.",
+  "accent": "766296",
+  "theme": "201A32"
+}

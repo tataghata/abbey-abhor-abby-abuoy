@@ -1,0 +1,31 @@
+{
+  "index": 31,
+  "slug": "bricolage",
+  "word": "bricolage",
+  "definition": "Making or thinking by recombining materials and resources already at hand, adapting their inherited possibilities and limitations to a new purpose rather than beginning with components designed specifically for that purpose.",
+  "etymology": "A French word for makeshift construction or tinkering, related to bricoler; its theoretical uses developed from ordinary practices of resourceful making.",
+  "tagline": "Available things remember their earlier uses",
+  "art_caption": "Mismatched components make a purposeful bridge while retaining their distinct materials and shapes.",
+  "sections": [
+    {
+      "heading": "Making with what is available",
+      "text": "A garden gate repaired with scrap timber, a bicycle bracket, and an old belt exemplifies bricolage. The maker adapts existing resources to a new purpose. Their shapes and limitations influence the solution, so invention proceeds through negotiation with available materials rather than through complete freedom to specify every component beforehand."
+    },
+    {
+      "heading": "A theoretical model of thought",
+      "text": "Claude Lévi-Strauss used the bricoleur to characterize a way of working within a finite repertoire of elements, including in his account of mythic thought. The contrast with an engineer is analytical rather than a ranking of intelligence. Both figures involve organization; their different relations to resources make the comparison useful."
+    },
+    {
+      "heading": "Previous meanings remain active",
+      "text": "In an artwork, a reused object can carry traces of its former function into a new arrangement. Those traces may become part of the work's meaning rather than defects to erase. Bricolage is therefore more specific than arbitrary mixture: the available elements have histories and affordances that constrain and enrich recombination."
+    },
+    {
+      "heading": "Read the negotiation",
+      "text": "Choose a repaired or assembled object and identify where an inherited shape has redirected the design. Then imagine the same object made from custom parts. The comparison reveals what the available material contributes, helping distinguish resourceful adaptation from a merely decorative appearance of improvisation or an unexamined celebration of scarcity."
+    }
+  ],
+  "pronunciation": "",
+  "literary": "With a bicycle's elbow, a wardrobe's discarded rib, and the belt that once restrained his father's Sunday, he taught the broken gate a new and slightly limping grammar.",
+  "accent": "BC7737",
+  "theme": "201A32"
+}

@@ -1,0 +1,12 @@
+{
+  "stem": "036-chora",
+  "triangles": 208014,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.46971848958333334,
+  "render_seconds": 0.85,
+  "method": "local-procedural-3d"
+}

@@ -1,0 +1,12 @@
+{
+  "stem": "044-diachronicity",
+  "triangles": 296496,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.3320721354166667,
+  "render_seconds": 0.71,
+  "method": "local-procedural-3d"
+}

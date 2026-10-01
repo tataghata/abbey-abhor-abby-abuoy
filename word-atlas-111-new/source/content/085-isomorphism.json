@@ -1,0 +1,31 @@
+{
+  "index": 85,
+  "slug": "isomorphism",
+  "word": "isomorphism",
+  "pronunciation": "",
+  "tagline": "Different presentations, the same preserved structure",
+  "definition": "A structure-preserving correspondence, typically a bijection with a structure-preserving inverse, between mathematical objects; it shows that the objects share the relevant organization even when their elements or presentations differ.",
+  "etymology": "Built from Greek isos, equal, and morphē, form, with -ism; mathematical usage gives structural sameness a precise context-dependent meaning.",
+  "sections": [
+    {
+      "heading": "Specify what survives",
+      "text": "An isomorphism pairs the elements of two mathematical objects while preserving their relevant structure in both directions. The phrase “relevant structure” does real work. For graphs it may mean adjacency; for groups it includes the operation. Establish the kind of object before declaring two objects equivalent."
+    },
+    {
+      "heading": "Geometry can distract",
+      "text": "Draw five vertices around a circle, then redraw them scattered across a page while keeping precisely the same connections. The pictures look different, and their edge lengths may change radically. As abstract graphs they can nevertheless be isomorphic because spatial layout was never part of the structure."
+    },
+    {
+      "heading": "A matching requires discipline",
+      "text": "A proposed correspondence must be one-to-one and onto, with the required relations preserved. Matching the number of vertices and edges alone does not establish graph isomorphism. These counts are useful invariants, but distinct structures can share them, demanding a more discriminating comparison of how connections fit together."
+    },
+    {
+      "heading": "Equivalence has a scope",
+      "text": "Two groups can be isomorphic without being literally the same set of elements. Calling them structurally equivalent allows reasoning to pass through the correspondence while retaining that distinction. The philosophical temptation to say “everything is the same” exceeds the precise mathematical claim being made."
+    }
+  ],
+  "literary": "The tangled city and the crystal garden exchanged their inhabitants house for blossom, keeping every neighborly path intact, until difference stood revealed as the costume worn by an unchanged relation.",
+  "art_caption": "Two differently arranged networks preserve every adjacency under the same colored vertex correspondence; layout changes while structure persists.",
+  "accent": "397F79",
+  "theme": "201A32"
+}

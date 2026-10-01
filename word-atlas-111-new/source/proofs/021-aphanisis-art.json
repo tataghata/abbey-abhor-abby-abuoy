@@ -1,0 +1,12 @@
+{
+  "stem": "021-aphanisis",
+  "triangles": 409984,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.16420894097222222,
+  "render_seconds": 0.96,
+  "method": "local-procedural-3d"
+}

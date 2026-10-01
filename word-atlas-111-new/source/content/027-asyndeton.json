@@ -1,0 +1,31 @@
+{
+  "index": 27,
+  "slug": "asyndeton",
+  "word": "asyndeton",
+  "definition": "The deliberate omission of conjunctions between words, phrases, or clauses that could normally be linked by them, producing a compressed sequence whose pace, emphasis, and perceived relationships depend on context.",
+  "etymology": "From Greek asyndeton, unconnected, built from a privative element and syndetos, bound together, through the terminology of ancient classical rhetoric.",
+  "tagline": "The conjunction disappears; the sequence keeps moving",
+  "art_caption": "Separated sculptural strokes advance in a tight procession without connective bridges.",
+  "sections": [
+    {
+      "heading": "Unlinked by explicit conjunctions",
+      "text": "“The shutters rattled, the lamps failed, the children waited” places clauses together without and or another coordinating conjunction. Asyndeton omits links that could ordinarily appear. The result remains organized through punctuation, parallel structure, and context; omission does not make the words grammatically or interpretively unrelated to one another."
+    },
+    {
+      "heading": "Pace is not predetermined",
+      "text": "A bare sequence can accelerate, strike repeatedly, or produce a stunned sense of separate facts. The same omission can also sound ceremonial or deliberately flat. Its effect depends on clause length, stress, subject matter, and surrounding prose, so a claim that asyndeton always creates urgency is too simple."
+    },
+    {
+      "heading": "A contrast with repeated linking",
+      "text": "Polysyndeton conspicuously multiplies conjunctions, while asyndeton conspicuously omits them. The contrast can help explain pacing and emphasis, but neither device guarantees a particular emotion. Both remain choices within a broader rhythm, and ordinary coordination should not automatically be treated as an elaborate rhetorical figure simply because a conjunction appears."
+    },
+    {
+      "heading": "Restore the missing links",
+      "text": "Insert and, then, or therefore into a sequence and compare the implications. Each connector can prescribe a relationship that juxtaposition leaves less explicit. The exercise reveals how omitted conjunctions affect not only speed but also causation, chronology, and the reader's freedom or burden in constructing relations among adjacent statements."
+    }
+  ],
+  "pronunciation": "",
+  "literary": "Doors slammed, rain climbed, lamps shivered, horses stamped, the city counted its remaining windows, the night arrived carrying no conjunction broad enough to fasten one disaster to the next.",
+  "accent": "AE665C",
+  "theme": "201A32"
+}

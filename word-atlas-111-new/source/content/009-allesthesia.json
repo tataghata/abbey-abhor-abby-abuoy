@@ -1,0 +1,31 @@
+{
+  "index": 9,
+  "slug": "allesthesia",
+  "word": "allesthesia",
+  "definition": "A disturbance in the perceived location of a sensory stimulus, in which stimulation at one bodily site is experienced as occurring elsewhere; specialized usages and distinctions vary across neurological descriptions.",
+  "etymology": "Formed from Greek-derived allos, other, and aisthēsis, sensation or perception; the construction emphasizes sensation experienced at a distinctly altered location.",
+  "tagline": "A touch arrives, but its reported address has shifted",
+  "art_caption": "A bright contact point and a displaced response are connected across a paired bodily map.",
+  "sections": [
+    {
+      "heading": "Location is part of sensation",
+      "text": "A real stimulus occurs at one bodily site, but the person experiences it elsewhere. The disturbance concerns localization, not merely intensity or the presence of an unusual sensation. Distinguishing the place stimulated from the place reported makes the phenomenon describable without assuming that sensation literally travels between separate people."
+    },
+    {
+      "heading": "A map that can misregister",
+      "text": "Everyday touch seems to arrive already attached to a bodily address. Allesthesia draws attention to the representational work involved in that apparent immediacy. The experience of location can be disturbed even when stimulation is real, revealing a distinction between an event on the body and its perceived spatial assignment."
+    },
+    {
+      "heading": "Terminology varies across accounts",
+      "text": "Allochiria often refers to displacement toward a corresponding point on the opposite side, while allesthesia can be used more broadly. Clinical and historical descriptions are not perfectly uniform. A careful reader checks how a particular author defines the terms instead of imposing a universal distinction on every case report."
+    },
+    {
+      "heading": "Describe before interpreting",
+      "text": "Imagine recording both a stimulus location and the location a person reports, across repeated trials. The pattern would be more informative than one surprising answer. Actual clinical interpretation requires examination and context; this thought experiment clarifies the concept without turning an isolated misperception into a diagnosis or a mystical claim."
+    }
+  ],
+  "pronunciation": "",
+  "literary": "The fingertip rang the left-hand bell, yet somewhere across the body's interior city a different tower answered, and the map insisted that the wandering sound had never moved.",
+  "accent": "677D97",
+  "theme": "201A32"
+}

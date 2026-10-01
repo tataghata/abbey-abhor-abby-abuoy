@@ -1,0 +1,31 @@
+{
+  "index": 20,
+  "slug": "antistrophe",
+  "word": "antistrophe",
+  "definition": "In Greek choral structure, a responding section corresponding metrically to a strophe; in another rhetorical usage, repetition at the ends of successive units, a figure also commonly called epistrophe.",
+  "etymology": "From Greek antistrophē, a counterturn or answering turn, related to anti- and strephein, to turn, with choral and rhetorical developments.",
+  "tagline": "An answering turn, or an ending heard again",
+  "art_caption": "Two answering wave structures meet a row of recurring terminal beads.",
+  "sections": [
+    {
+      "heading": "The responding choral section",
+      "text": "In Greek choral form, an antistrophe corresponds metrically to a preceding strophe. The pair organizes patterned response within an ode. This use concerns the architecture of song and its metrical relations; it does not require the sections to repeat identical final words or to express directly opposite propositions."
+    },
+    {
+      "heading": "The rhetorical terminal return",
+      "text": "Some rhetorical traditions use antistrophe for repeated endings, also commonly called epistrophe. “We argued for home, we endured for home, we returned for home” lets a stable ending gather different actions. The recurrence can produce convergence, insistence, or closure, depending on the changing material that leads toward it."
+    },
+    {
+      "heading": "Historical kinship is not identity",
+      "text": "Both uses involve return or response, but their formal criteria differ. A metrically answering choral section and a repeated phrase at clause endings are not the same structure. A good analysis names which tradition and feature are at issue instead of letting the word's broad metaphor replace precise description."
+    },
+    {
+      "heading": "Listen where the units resolve",
+      "text": "Mark the ends of successive clauses and compare their wording. Separately, when studying a choral ode, examine the correspondence of paired sections. Keeping those procedures apart allows the shared idea of a counterturn to remain suggestive without turning two distinct technical usages into an indistinct theory of repetition."
+    }
+  ],
+  "pronunciation": "",
+  "literary": "They crossed the square for home, they carried the broken weather for home, they folded their quarrels into their coats and followed the last unextinguished window for home.",
+  "accent": "677D97",
+  "theme": "201A32"
+}

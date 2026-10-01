@@ -1,0 +1,12 @@
+{
+  "stem": "078-hypotaxis",
+  "triangles": 79464,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.12189583333333333,
+  "render_seconds": 0.71,
+  "method": "local-procedural-3d"
+}

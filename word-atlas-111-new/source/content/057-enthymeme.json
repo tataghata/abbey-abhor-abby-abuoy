@@ -1,0 +1,31 @@
+{
+  "index": 57,
+  "slug": "enthymeme",
+  "word": "enthymeme",
+  "pronunciation": "",
+  "tagline": "Persuasion asks the listener to supply a bridge.",
+  "definition": "A rhetorical argument whose force depends on shared assumptions, often presented with an unstated premise or conclusion; in Aristotle, a rhetorical form of deduction involving premises appropriate to practical persuasion.",
+  "etymology": "From Greek enthymēma, a consideration or thought, related to enthymeisthai, to consider; its rhetorical sense developed into a technical account of argument.",
+  "sections": [
+    {
+      "heading": "MEANING IN MOTION",
+      "text": "She has kept every earlier promise, so trust this one invites the audience to supply a bridge: reliable past conduct provides reason to expect future reliability. The missing premise account is useful, but it does not exhaust Aristotle's treatment, which concerns rhetorical proof and its characteristic premises."
+    },
+    {
+      "heading": "THE CRUCIAL DISTINCTION",
+      "text": "An enthymeme can persuade because listeners participate in completing the reasoning. That participation also makes hidden assumptions harder to notice. Reconstructing the argument reveals whether the supplied premise is plausible, contestable, or insufficient, without confusing persuasive compression with logical certainty."
+    },
+    {
+      "heading": "THE AUDIENCE PARTICIPATES",
+      "text": "Compression can persuade because listeners complete a plausible connection themselves. That participation gives an enthymeme rhetorical force while making its assumptions less conspicuous. Reconstructing the missing bridge does not automatically refute the argument; it identifies what the audience must accept for the conclusion to seem warranted."
+    },
+    {
+      "heading": "REASONS SHORT OF CERTAINTY",
+      "text": "Practical persuasion often concerns probabilities, signs, and shared judgments. An argument can be reasonable without furnishing deductive certainty. Distinguish a hidden premise from a false one, and distinguish both from the broader Aristotelian account of rhetorical proof; the familiar omission formula is useful but incomplete."
+    }
+  ],
+  "literary": "He left the middle plank unspoken, trusting their accustomed feet to lay it down, and the whole assembly crossed from yesterday's promise to tomorrow's confidence without inspecting the timber.",
+  "art_caption": "An emphasized central segment makes the audience’s usually unstated support visible within an argumentative bridge.",
+  "accent": "296F69",
+  "theme": "201A32"
+}

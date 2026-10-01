@@ -1,0 +1,12 @@
+{
+  "stem": "012-anamnesis",
+  "triangles": 78344,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.12091427951388889,
+  "render_seconds": 0.74,
+  "method": "local-procedural-3d"
+}

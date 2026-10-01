@@ -1,0 +1,599 @@
+{
+  "status": "passed",
+  "entries": 37,
+  "approved_exception": "Four accurate inherited etymologies contain 19 words: 080, 082, 085, 087.",
+  "results": [
+    {
+      "index": 75,
+      "slug": "holophrasis",
+      "section_word_counts": [
+        42,
+        42,
+        42,
+        43
+      ],
+      "note_words": 505,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "0656d1c3f6cc87f9651b1f4d0d9f00abae36a6d0a4169d1c0a3345a73cb860d4"
+    },
+    {
+      "index": 76,
+      "slug": "homoioteleuton",
+      "section_word_counts": [
+        43,
+        43,
+        44,
+        44
+      ],
+      "note_words": 517,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "3a640ab390d59635be186ba874eb1f94d3f1211a342baddd83fdbc9066498ef9"
+    },
+    {
+      "index": 77,
+      "slug": "hypostasis",
+      "section_word_counts": [
+        45,
+        42,
+        44,
+        45
+      ],
+      "note_words": 515,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "937e4a81d139f6582b52e86b8fe691c19f3d102b00ad3f06583da79a0a043d39"
+    },
+    {
+      "index": 78,
+      "slug": "hypotaxis",
+      "section_word_counts": [
+        43,
+        44,
+        43,
+        45
+      ],
+      "note_words": 517,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "1e8989392c8b8b7c7f03467a2ccc8463ce7a1668640ffc2f312a769415bd353c"
+    },
+    {
+      "index": 79,
+      "slug": "iconotext",
+      "section_word_counts": [
+        44,
+        44,
+        44,
+        45
+      ],
+      "note_words": 526,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "d89763e5ac87bb7344ae5214d410400923ff7c4fefbd9b020cdbfb3213d0dc56"
+    },
+    {
+      "index": 80,
+      "slug": "illeism",
+      "section_word_counts": [
+        45,
+        45,
+        46,
+        44
+      ],
+      "note_words": 527,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "811738941afadc31a9d13075ca8b1374cf917297c61c0f1636cbaa25ae2711d4"
+    },
+    {
+      "index": 81,
+      "slug": "immanence",
+      "section_word_counts": [
+        43,
+        45,
+        45,
+        45
+      ],
+      "note_words": 530,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "e2615ae5836fc0551a493a301ca7fbcdaf2be04cde4768bfb72ed8a39e5c0ddd"
+    },
+    {
+      "index": 82,
+      "slug": "incommensurability",
+      "section_word_counts": [
+        45,
+        46,
+        45,
+        46
+      ],
+      "note_words": 533,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "8fc4016da9c637ec3eb6f807689645c9e7c51083ddd830b9f15e4c3af06ca57c"
+    },
+    {
+      "index": 83,
+      "slug": "indexicality",
+      "section_word_counts": [
+        43,
+        46,
+        46,
+        45
+      ],
+      "note_words": 533,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "977da4b9d1bc991b6750feb25ed3a0f4c193d0ec89f471231a04ea36d1171241"
+    },
+    {
+      "index": 84,
+      "slug": "interpellation",
+      "section_word_counts": [
+        45,
+        45,
+        45,
+        46
+      ],
+      "note_words": 537,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "e6ff3c217971d5c98fa4e556d8fd461e2b49cb71a23ef4a6500a1a382e07e252"
+    },
+    {
+      "index": 85,
+      "slug": "isomorphism",
+      "section_word_counts": [
+        46,
+        47,
+        47,
+        44
+      ],
+      "note_words": 529,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "7964558ba33d6aceab473477977ba5ec00763eef2f3d903d5bbe32fa8667bd3f"
+    },
+    {
+      "index": 86,
+      "slug": "kairos",
+      "section_word_counts": [
+        46,
+        47,
+        46,
+        46
+      ],
+      "note_words": 535,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "c0d4456c04d16caa08967d5270dcf2b024f2e7e6e8e358a7e20988a3cbdec03e"
+    },
+    {
+      "index": 87,
+      "slug": "kenosis",
+      "section_word_counts": [
+        45,
+        48,
+        47,
+        44
+      ],
+      "note_words": 527,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "baacd2a0d8f7f3008a2c233c55fb6de1060b01c7fb8d6cdc2239bc4b31b3d861"
+    },
+    {
+      "index": 88,
+      "slug": "logopoeia",
+      "section_word_counts": [
+        45,
+        47,
+        45,
+        49
+      ],
+      "note_words": 536,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "8effc2ce4bc11a4014fd30e209d9120097749c3aeed9bfb0be23e7b764e66d09"
+    },
+    {
+      "index": 89,
+      "slug": "mereology",
+      "section_word_counts": [
+        46,
+        46,
+        48,
+        47
+      ],
+      "note_words": 540,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "4af21870d9ce195bb47d48ed7914b002faab8265535fef520de71b6d6aa8315c"
+    },
+    {
+      "index": 90,
+      "slug": "metanoia",
+      "section_word_counts": [
+        46,
+        48,
+        45,
+        48
+      ],
+      "note_words": 539,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "380e41d762dc958c6648e2165a1ff2fa234a97831f0b87fbfdab234905a6e846"
+    },
+    {
+      "index": 91,
+      "slug": "metempsychosis",
+      "section_word_counts": [
+        48,
+        50,
+        48,
+        49
+      ],
+      "note_words": 553,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "c9ac457ebacea0663a142713f63ba41a9187a1eaecc1d512ce3dfa73299bfe41"
+    },
+    {
+      "index": 92,
+      "slug": "mimesis",
+      "section_word_counts": [
+        46,
+        48,
+        49,
+        47
+      ],
+      "note_words": 541,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "ababebddd208278d2560282d8ebeeffed9cfb700d07c2ee75c804055caa59263"
+    },
+    {
+      "index": 93,
+      "slug": "monadology",
+      "section_word_counts": [
+        47,
+        47,
+        47,
+        46
+      ],
+      "note_words": 547,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "d574d68d93427f96a76d897c6b0375d0fd0ff372e5c7c68eef699dfc4193b15c"
+    },
+    {
+      "index": 94,
+      "slug": "noesis",
+      "section_word_counts": [
+        46,
+        49,
+        47,
+        48
+      ],
+      "note_words": 548,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "89e209352af20104606264906359a8efd6ac49f7912894130f75bd186b560e13"
+    },
+    {
+      "index": 95,
+      "slug": "noema",
+      "section_word_counts": [
+        46,
+        48,
+        48,
+        48
+      ],
+      "note_words": 555,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "6ec97a05a9750a4613d168119ea103ed200f5a4eeed3b04d89aa661f7a1814ce"
+    },
+    {
+      "index": 96,
+      "slug": "noumenon",
+      "section_word_counts": [
+        48,
+        48,
+        49,
+        48
+      ],
+      "note_words": 554,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "0aa16ded912d2ba45fd021522f932ff8d3460e4e6ccee8f530b6e28828a784d2"
+    },
+    {
+      "index": 97,
+      "slug": "ontogenesis",
+      "section_word_counts": [
+        47,
+        46,
+        48,
+        47
+      ],
+      "note_words": 545,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "4f83a0451dd4f21959b713140a3ac1185f921badfc813a18c1aefa40cb2e5d85"
+    },
+    {
+      "index": 98,
+      "slug": "paradiastole",
+      "section_word_counts": [
+        46,
+        45,
+        47,
+        48
+      ],
+      "note_words": 537,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "5694b46089292bbb2c2ff479afcda9b6e1be57252ce7e7f6d6ba77d99d4ecf7b"
+    },
+    {
+      "index": 99,
+      "slug": "paronomasia",
+      "section_word_counts": [
+        47,
+        47,
+        46,
+        47
+      ],
+      "note_words": 543,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "196558a000f0085fbd5cffedddcd4edf8437c10c764dbbf9dddb4f6e0b57bf23"
+    },
+    {
+      "index": 100,
+      "slug": "peripeteia",
+      "section_word_counts": [
+        47,
+        47,
+        48,
+        48
+      ],
+      "note_words": 541,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "cc29597a2a73cfa900dade1252bb9f43009e9405b392b9437b83ee342cc31582"
+    },
+    {
+      "index": 101,
+      "slug": "pharmakon",
+      "section_word_counts": [
+        47,
+        47,
+        49,
+        48
+      ],
+      "note_words": 545,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "a5da549f354dc51a403b73f33f8a9867f5567e79737f21a7e02084f0910db410"
+    },
+    {
+      "index": 102,
+      "slug": "pleroma",
+      "section_word_counts": [
+        46,
+        46,
+        48,
+        49
+      ],
+      "note_words": 542,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "54a119f09cf4dfb6ff65d3f51baa69b0cfab23bfa650859f0ec3f09cdbf423c2"
+    },
+    {
+      "index": 103,
+      "slug": "prosopopoeia",
+      "section_word_counts": [
+        48,
+        47,
+        48,
+        48
+      ],
+      "note_words": 545,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "fda4743664991dfcf63f8ce42e7a06951a17580b8ebf4d9870d639f9d43108f4"
+    },
+    {
+      "index": 104,
+      "slug": "prolepsis",
+      "section_word_counts": [
+        48,
+        48,
+        50,
+        47
+      ],
+      "note_words": 542,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "b0f876bdfc3e1141035df2f7f0fca917210527eabbb575eddad69eabce10299b"
+    },
+    {
+      "index": 105,
+      "slug": "prohairesis",
+      "section_word_counts": [
+        47,
+        47,
+        49,
+        49
+      ],
+      "note_words": 554,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "01ca650670c8c045d3ab97f9e0a900c25f51e2781e3e42f4c58112e5efd87967"
+    },
+    {
+      "index": 106,
+      "slug": "rhizome",
+      "section_word_counts": [
+        47,
+        49,
+        49,
+        49
+      ],
+      "note_words": 551,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "cacbff118f30cf15159c5b7238728008526622d645bddb2613bb2322d31504ba"
+    },
+    {
+      "index": 107,
+      "slug": "simulacrum",
+      "section_word_counts": [
+        47,
+        48,
+        50,
+        48
+      ],
+      "note_words": 557,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "54c428c9570bc77317eaa8d61a43490507ffee071a075e17d5f1ac09ece0dc43"
+    },
+    {
+      "index": 108,
+      "slug": "syncretism",
+      "section_word_counts": [
+        48,
+        48,
+        48,
+        48
+      ],
+      "note_words": 554,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "5bc5c00556a9a4ebd6ac956aa03443f8b87c831f6bef47276990c39decbbfbb8"
+    },
+    {
+      "index": 109,
+      "slug": "syzygy",
+      "section_word_counts": [
+        47,
+        48,
+        48,
+        51
+      ],
+      "note_words": 553,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "076c83dafcfe08cdafbd8b02a76b2a4fa44d528b147e27b6ad0bbb607474b2b4"
+    },
+    {
+      "index": 110,
+      "slug": "teleopoiesis",
+      "section_word_counts": [
+        49,
+        49,
+        46,
+        48
+      ],
+      "note_words": 557,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "d7f804b125078f503eaa9abd6f35f0707d1260c5519540c404d788b2fc018405"
+    },
+    {
+      "index": 111,
+      "slug": "zeugma",
+      "section_word_counts": [
+        47,
+        49,
+        50,
+        48
+      ],
+      "note_words": 557,
+      "art_dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "c241e4819bb8f9e7a920c5697b2c9fa84a2d4ba584f89dc6463c74f92622c000"
+    }
+  ]
+}

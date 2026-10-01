@@ -1,0 +1,31 @@
+{
+  "index": 68,
+  "slug": "exophora",
+  "word": "exophora",
+  "pronunciation": "",
+  "tagline": "The sentence reaches beyond the sentence.",
+  "definition": "Reference whose interpretation depends on something outside the surrounding discourse, typically a person, object, place, or circumstance available in the shared situation rather than an antecedent mentioned in the text.",
+  "etymology": "Built from Greek exō, outside, and a form related to pherein, to carry; the linguistic term names reference directed beyond the discourse.",
+  "sections": [
+    {
+      "heading": "MEANING IN MOTION",
+      "text": "When someone points toward a window and says, Close that, the referent of that comes from the immediate setting rather than a previously named noun. That is exophoric reference. By contrast, in I opened a window, then closed it, it ordinarily refers back within the discourse and is endophoric."
+    },
+    {
+      "heading": "THE CRUCIAL DISTINCTION",
+      "text": "Exophora often overlaps with deixis, but the concepts are not identical: deixis concerns expressions interpreted relative to a contextual center, while exophora concerns reference beyond the text. A transcript can therefore preserve every word yet omit what makes an instruction intelligible."
+    },
+    {
+      "heading": "A PERFECT TRANSCRIPT CAN FAIL",
+      "text": "A transcript may preserve put that over there exactly while losing the gesture and shared visual field that made the instruction usable. Accuracy of wording is therefore different from completeness of communicative context. Recording an exchange sometimes requires describing the environment as well as transcribing the spoken words."
+    },
+    {
+      "heading": "CONTEXT MUST BE SHARED",
+      "text": "A speaker can assume a referent is visible when the listener cannot see it. The resulting misunderstanding concerns access to the situation, not necessarily grammar or vocabulary. Ask what participants can perceive and jointly identify before deciding that an exophoric expression has successfully picked out its object."
+    }
+  ],
+  "literary": "He said put it there, and the sentence, perfectly complete in ink, stood helpless until her pointing finger returned the missing furniture of the world to its small instructions.",
+  "art_caption": "A directional strand leaves the bounded page and terminates at an object in the surrounding space.",
+  "accent": "9C6522",
+  "theme": "201A32"
+}

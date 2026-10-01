@@ -1,0 +1,12 @@
+{
+  "stem": "097-ontogenesis",
+  "triangles": 89528,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.09790581597222223,
+  "render_seconds": 0.7,
+  "method": "local-procedural-3d"
+}

@@ -1,0 +1,31 @@
+{
+  "index": 104,
+  "slug": "prolepsis",
+  "word": "prolepsis",
+  "pronunciation": "",
+  "tagline": "The telling borrows a future before its place arrives",
+  "definition": "An anticipation of something that normally comes later: in narrative, a presentation of a future event; in rhetoric, the advance consideration of an objection, with other specialized meanings in philosophy and grammar.",
+  "etymology": "From Greek prolēpsis, an anticipation or taking beforehand, formed with pro-, before, and a noun related to lambanein, to take.",
+  "sections": [
+    {
+      "heading": "Story time and telling time",
+      "text": "A narrative prolepsis presents an event later than the story moment currently being narrated. A childhood scene may be interrupted by an account of the house's future destruction. The device concerns the order of presentation, which can move differently from the chronological sequence of events within the story."
+    },
+    {
+      "heading": "Prediction is not identical",
+      "text": "A character's guess about tomorrow may remain uncertain and may never become an event. Foreshadowing can suggest a future without explicitly presenting it. Narrative prolepsis more directly takes the telling forward, although the boundaries among these devices require attention to exactly what a particular passage claims to show."
+    },
+    {
+      "heading": "Argument anticipates an answer",
+      "text": "In rhetoric, prolepsis can involve raising an expected objection and answering it before an opponent speaks. This reorganizes argumentative order rather than story chronology. The anticipated objection might be fairly represented or strategically weakened, so recognizing the device should lead to an assessment of how the other position is rendered."
+    },
+    {
+      "heading": "Other technical lives",
+      "text": "Epicurean discussions of prolepsis concern preconceptions, and grammatical traditions develop further specialized uses. The shared sense of taking beforehand offers orientation but not a complete definition across disciplines. A useful account identifies the kind of anticipation involved instead of treating every example as an interchangeable narrative flashforward."
+    }
+  ],
+  "literary": "Years before the orchard burned, the narrator let one ash-white petal fall upon the child's unworried sleeve, borrowing tomorrow's ruin to trouble the still-unbroken grammar of today.",
+  "art_caption": "A later bare branch returns into an earlier framed moment; the narrative line continues while presentation temporarily reaches ahead.",
+  "accent": "AD793B",
+  "theme": "201A32"
+}

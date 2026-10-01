@@ -1,0 +1,12 @@
+{
+  "stem": "002-aboulia",
+  "triangles": 250608,
+  "dimensions": [
+    1800,
+    800
+  ],
+  "fit": 1.0,
+  "coverage": 0.17741527777777777,
+  "render_seconds": 0.06,
+  "method": "local-procedural-3d"
+}

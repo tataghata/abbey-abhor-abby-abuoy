@@ -1,0 +1,31 @@
+{
+  "index": 53,
+  "slug": "elenchus",
+  "word": "elenchus",
+  "pronunciation": "",
+  "tagline": "A claim tested against what its speaker also accepts.",
+  "definition": "A method of critical questioning or refutation, especially associated with Socrates, that tests a person's claim against further commitments and reveals inconsistencies requiring reconsideration, clarification, or abandonment of the original position.",
+  "etymology": "From Greek elenchos, examination or refutation; English usage often retains the Latinized form when discussing Socratic questioning and philosophical argument.",
+  "sections": [
+    {
+      "heading": "MEANING IN MOTION",
+      "text": "Suppose someone defines courage as never retreating, then agrees that a strategic retreat can be courageous. Questioning exposes tension between the proposed definition and an accepted example. A Socratic elenchus works through such commitments rather than merely announcing the questioner's superior answer."
+    },
+    {
+      "heading": "THE CRUCIAL DISTINCTION",
+      "text": "Its outcome may be perplexity rather than a finished doctrine. Revealing inconsistency does not automatically show which belief is false, nor does it establish every positive view Socrates might favor. The method is strongest when participants sincerely examine their commitments instead of treating dialogue as a contest of humiliation."
+    },
+    {
+      "heading": "CONTRADICTION HAS A COST",
+      "text": "When accepted commitments conflict, something needs revision, but the inconsistency does not identify its own repair. The initial definition, an accepted example, or another premise may be abandoned. This is why elenchus can generate productive perplexity without automatically delivering a finished replacement doctrine."
+    },
+    {
+      "heading": "QUESTIONING AS COOPERATION",
+      "text": "The method depends on taking answers seriously enough to follow their consequences. Questions designed only to embarrass can resemble the outward pattern while undermining inquiry. Ask whether the participants are free to revise a claim and whether the exchange clarifies the disputed concept for everyone involved."
+    }
+  ],
+  "literary": "He brought a definition polished enough for a monument, but her patient questions found the unjoined stones, until the grand certainty stood honestly unfinished in the afternoon dust.",
+  "art_caption": "A closed path of commitments meets an opposing arrow, exposing tension within the same argumentative structure.",
+  "accent": "675187",
+  "theme": "201A32"
+}

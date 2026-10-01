@@ -1,0 +1,31 @@
+{
+  "index": 3,
+  "slug": "acatalepsy",
+  "word": "acatalepsy",
+  "definition": "In philosophical skepticism, the impossibility or denial of secure cognitive apprehension: a challenge to claims that things can be grasped with the certainty required for knowledge, especially in ancient epistemological debates.",
+  "etymology": "From Greek akatalēpsia, non-apprehension, related to katalambanein, to seize or comprehend, with the privative prefix a- negating secure cognitive grasp.",
+  "tagline": "An appearance cannot sign its own guarantee",
+  "art_caption": "An open grasp surrounds a faceted object whose reflected doubles resist a single secure capture.",
+  "sections": [
+    {
+      "heading": "What counts as grasping",
+      "text": "Ancient epistemological arguments ask whether an impression can guarantee that reality is exactly as it appears. Vividness alone is insufficient: a convincing dream can seem compelling while it lasts. Acatalepsy challenges secure apprehension, not merely the speed with which a person happens to answer an ordinary question."
+    },
+    {
+      "heading": "The criterion under pressure",
+      "text": "Suppose a proposed test distinguishes true impressions from false ones. A skeptic may ask how that test is itself warranted and whether misleading cases can satisfy it. The question concerns the reliability of the criterion. Adding confidence to an appearance does not by itself provide the missing guarantee."
+    },
+    {
+      "heading": "Skepticism has different forms",
+      "text": "Academic and Pyrrhonian traditions handle uncertainty differently, and historical positions vary within them. Suspending judgment is not identical to asserting that nothing can ever be known. The latter can become a strong claim of its own, inviting the very demand for justification that skepticism directs toward confident doctrines."
+    },
+    {
+      "heading": "Continue without a certificate",
+      "text": "A person can follow appearances, customary practices, and practical reasons while declining a philosophical claim of certainty. Test the distinction by choosing an umbrella under a cloudy sky. Acting reasonably amid uncertainty is possible even when the deeper question of infallible access to reality remains unresolved."
+    }
+  ],
+  "pronunciation": "",
+  "literary": "He closed his fist around the proof and opened it upon an impression of a fist, while certainty, impeccably dressed, departed through the unverified door behind his eyes.",
+  "accent": "378F8E",
+  "theme": "201A32"
+}

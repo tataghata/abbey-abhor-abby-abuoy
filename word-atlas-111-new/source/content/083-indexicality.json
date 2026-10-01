@@ -1,0 +1,31 @@
+{
+  "index": 83,
+  "slug": "indexicality",
+  "word": "indexicality",
+  "pronunciation": "",
+  "tagline": "A sign takes its address from the situation",
+  "definition": "Dependence of meaning or reference on a sign's connection to its context, especially a speaker, place, or time; in semiotics, an index can also indicate something through a factual or causal connection.",
+  "etymology": "From index, Latin for an indicator or pointer, related to indicare, to point out; later disciplines extend the pointing metaphor.",
+  "sections": [
+    {
+      "heading": "The utterance needs coordinates",
+      "text": "“I am here now” changes reference with speaker, location, and time. Knowing the words' conventional meanings does not by itself identify the person or place involved. Linguistic indexicality concerns this systematic dependence on a context that supplies the relevant coordinates of an utterance."
+    },
+    {
+      "heading": "Traces differ from portraits",
+      "text": "In Peircean semiotics, an index connects to its object through a factual relation, often causal. A footprint can indicate a passage without resembling a whole traveler. An icon works through resemblance, while a symbol relies on a rule or convention; actual signs can combine these aspects."
+    },
+    {
+      "heading": "Social meanings are situated",
+      "text": "Pronunciation, vocabulary, and style can suggest a region, stance, profession, or social identity. These sociolinguistic associations are learned, variable, and open to performance. A feature may index membership or alignment without serving as an infallible certificate of where a person belongs or who that person is."
+    },
+    {
+      "heading": "Context can be misread",
+      "text": "A recording preserves “here” after the speaker has departed; a footprint can be relocated on a cast. Interpretation requires asking which context anchors the sign and which relation survives transmission. Indexical force is not magical immediacy: signs can travel, be staged, and support mistaken inferences."
+    }
+  ],
+  "literary": "Here, she whispered, and the word pinned no permanent place to the earth, only this breath to this rain-dark doorway while tomorrow waited elsewhere under the same syllable.",
+  "art_caption": "A body leaves paired traces; relations connect visible marks to what produced them instead of relying on resemblance alone.",
+  "accent": "766296",
+  "theme": "201A32"
+}

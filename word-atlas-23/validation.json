@@ -1,0 +1,18 @@
+{
+  "images": 23,
+  "dimensions_each": [
+    8000,
+    10000
+  ],
+  "megapixels_each": 80,
+  "dpi": 400,
+  "srgb_tagged_images": 23,
+  "unique_images": 23,
+  "image_bytes": 145124638,
+  "companion_words": 16861,
+  "valid_gallery_links": 96,
+  "pdf_pages": 23,
+  "pdf_bookmarks": 23,
+  "pdf_full_text_verified": true,
+  "gallery_javascript_syntax_verified": true
+}

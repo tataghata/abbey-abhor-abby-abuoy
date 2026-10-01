@@ -1,0 +1,12 @@
+{
+  "stem": "015-anastrophe",
+  "triangles": 50448,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.14886809895833333,
+  "render_seconds": 0.69,
+  "method": "local-procedural-3d"
+}

@@ -1,0 +1,31 @@
+{
+  "index": 13,
+  "slug": "anamorphosis",
+  "word": "anamorphosis",
+  "definition": "A deliberately distorted representation that becomes recognizable from a particular viewpoint or through an optical device, making the conditions of viewing essential to how an image coheres as an intelligible form.",
+  "etymology": "From Greek-derived elements associated with forming again or transformation, transmitted through learned European terminology for deliberately distorted, reconstructable optical representations.",
+  "tagline": "Recognition has an address in space",
+  "art_caption": "An elongated lattice projects into a coherent circular form along one privileged axis.",
+  "sections": [
+    {
+      "heading": "A distortion with a rule",
+      "text": "An anamorphic image is deliberately transformed so that a particular viewpoint or optical device restores its recognizable form. A pavement painting may look stretched from above yet convincing from a marked position. The apparent disorder follows a designed projection, making the viewer's location an operative part of the representation."
+    },
+    {
+      "heading": "Two families of reconstruction",
+      "text": "Perspective anamorphosis uses a specially positioned eye, while mirror anamorphosis can require a cylindrical or conical reflecting surface. The procedures differ geometrically, but both link distorted marks to a mode of reconstruction. Neither is adequately described as discovering a familiar shape in arbitrary noise or cloud patterns."
+    },
+    {
+      "heading": "Ordinary perspective made strange",
+      "text": "Anamorphosis dramatizes a condition that ordinary pictures often conceal: coherence depends on relations between image, surface, and viewpoint. The privileged position is constructed rather than naturally inevitable. Moving away from it makes that dependence visible, allowing a viewer to experience both a recognizable object and the means of its recognition."
+    },
+    {
+      "heading": "Change position before interpretation",
+      "text": "Imagine a stretched oval laid across a floor. Ask which oblique viewpoint would make it appear circular, then compare that prediction with a simple physical model. The exercise links visual surprise to geometry. A metaphor about changed understanding becomes sharper when this dependence on a determinate viewing relation is preserved."
+    }
+  ],
+  "pronunciation": "",
+  "literary": "From the doorway it was wreckage; from the last stair, a face, and he learned how fiercely a truth may depend upon the inch of floor beneath it.",
+  "accent": "378F8E",
+  "theme": "201A32"
+}

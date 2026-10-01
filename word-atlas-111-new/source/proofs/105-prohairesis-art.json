@@ -1,0 +1,12 @@
+{
+  "stem": "105-prohairesis",
+  "triangles": 155304,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.08250203993055556,
+  "render_seconds": 0.72,
+  "method": "local-procedural-3d"
+}

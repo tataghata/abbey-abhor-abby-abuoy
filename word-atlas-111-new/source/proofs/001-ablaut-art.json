@@ -1,0 +1,12 @@
+{
+  "stem": "001-ablaut",
+  "triangles": 294918,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.19757630208333332,
+  "render_seconds": 0.85,
+  "method": "local-procedural-3d"
+}

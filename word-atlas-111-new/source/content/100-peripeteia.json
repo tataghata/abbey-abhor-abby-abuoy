@@ -1,0 +1,31 @@
+{
+  "index": 100,
+  "slug": "peripeteia",
+  "word": "peripeteia",
+  "pronunciation": "",
+  "tagline": "The action turns against the direction that carried it",
+  "definition": "A reversal in the direction of an action or situation, especially in drama; in Aristotle's account, an effective reversal arises according to probability or necessity within the plot's own causal development.",
+  "etymology": "From Greek peripeteia, reversal or sudden change, related to peripiptein, to fall around or encounter a turn; its dramatic sense is classical.",
+  "sections": [
+    {
+      "heading": "Reversal belongs to action",
+      "text": "Peripeteia concerns a turn toward an opposing result in an action or situation. A messenger arrives to reassure someone, yet the message exposes catastrophe. The reversal is stronger than a change in emotional weather: the direction of what is happening is altered through the unfolding events themselves."
+    },
+    {
+      "heading": "Aristotle asks for connection",
+      "text": "In Aristotle's account of effective plotting, reversal should arise according to probability or necessity within the action. The surprising turn becomes intelligible through established relations. A random accident may change someone's fortunes, but it does not automatically possess the explanatory force Aristotle values in a well-constructed plot."
+    },
+    {
+      "heading": "Recognition can intensify it",
+      "text": "Anagnorisis, recognition or discovery, can coincide with reversal when newly understood facts transform a character's position. These concepts are distinct: a discovery need not reverse fortune, and a reversal need not immediately clarify its cause. Their combination can make the movement of a tragedy especially concentrated and powerful."
+    },
+    {
+      "heading": "Surprise must be earned",
+      "text": "A concealed coincidence can startle a reader without illuminating the preceding action. A stronger reversal may reorganize that action retrospectively, making earlier details matter differently. Analysis asks whether the turn develops from the story's relationships or merely interrupts them with an event whose main function is to astonish."
+    }
+  ],
+  "literary": "The key he carried to release the prisoner fitted, with terrible perfection, the lock of his own forgotten cell, and the dawnward road turned inward beneath his feet.",
+  "art_caption": "A forward path curls into a returning arrow; a poised lever makes reversal depend on an arrangement already present.",
+  "accent": "AD793B",
+  "theme": "201A32"
+}

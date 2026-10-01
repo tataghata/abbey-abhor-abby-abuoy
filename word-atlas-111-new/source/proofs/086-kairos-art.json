@@ -1,0 +1,12 @@
+{
+  "stem": "086-kairos",
+  "triangles": 108360,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.14354730902777776,
+  "render_seconds": 0.72,
+  "method": "local-procedural-3d"
+}

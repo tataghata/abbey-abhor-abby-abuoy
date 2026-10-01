@@ -1,0 +1,31 @@
+{
+  "index": 92,
+  "slug": "mimesis",
+  "word": "mimesis",
+  "pronunciation": "",
+  "tagline": "Art can imitate by selecting and making intelligible",
+  "definition": "Representation, imitation, or enactment through which art and other practices present actions, appearances, or patterns of life; philosophical accounts differ about whether this process reproduces, interprets, or helps disclose reality.",
+  "etymology": "From Greek mimēsis, imitation or representation, related to mimeisthai, to imitate; its philosophical history includes importantly different Platonic and Aristotelian treatments.",
+  "sections": [
+    {
+      "heading": "Representation is an activity",
+      "text": "A performance of an argument selects gestures, duration, and consequences from the innumerable details of ordinary life. Mimesis can therefore involve organization and disclosure as well as resemblance. To imitate an action is not necessarily to reproduce every feature of an observed event with equal attention."
+    },
+    {
+      "heading": "Philosophical disagreements matter",
+      "text": "Plato often examines imitation's relation to knowledge and its effects on character, while Aristotle gives it significant roles in learning and poetic construction. Each philosopher's arguments vary with context. The contrast should not become a cartoon in which one simply hates art and the other approves every representation."
+    },
+    {
+      "heading": "An action becomes graspable",
+      "text": "A drama can rearrange events to reveal a plausible pattern of motives and consequences. Its claim to intelligibility differs from a camera's record of whatever happened to stand before it. Neither mode is automatically superior; they make different selections and invite different expectations about truth, evidence, and artistic form."
+    },
+    {
+      "heading": "Resemblance is not plagiarism",
+      "text": "Mimesis describes broad relations of representation and enactment, whereas plagiarism concerns appropriating another person's work without appropriate acknowledgment. An artwork can be mimetic without copying a particular prior artwork. Conversely, a formally abstract work can involve plagiarism even when it depicts no recognizable scene from ordinary life."
+    }
+  ],
+  "literary": "The painted sea never wetted the room, yet before its arranged blue tempests the old sailor remembered a storm that no faithful photograph had known how to bring ashore.",
+  "art_caption": "An unruly wave reappears as a composed gesture within a stage: representation transforms what it chooses to present.",
+  "accent": "AD793B",
+  "theme": "201A32"
+}

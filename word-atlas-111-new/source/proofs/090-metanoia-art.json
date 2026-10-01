@@ -1,0 +1,12 @@
+{
+  "stem": "090-metanoia",
+  "triangles": 132614,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.1408017795138889,
+  "render_seconds": 0.7,
+  "method": "local-procedural-3d"
+}

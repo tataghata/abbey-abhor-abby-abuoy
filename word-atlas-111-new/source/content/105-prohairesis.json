@@ -1,0 +1,31 @@
+{
+  "index": 105,
+  "slug": "prohairesis",
+  "word": "prohairesis",
+  "pronunciation": "",
+  "tagline": "Choice has a province; it does not own the storm",
+  "definition": "Deliberate choice or moral purpose in ancient Greek philosophy; Aristotle connects it with deliberation about action, while Epictetus gives it a central role in the responsible use of impressions and judgment.",
+  "etymology": "From Greek prohairesis, choice or preference, related to prohaireisthai, to choose; philosophical authors give this ordinary vocabulary more precise ethical roles.",
+  "sections": [
+    {
+      "heading": "Aristotle's deliberate choice",
+      "text": "For Aristotle, prohairesis concerns choice connected with deliberation about action, distinguished from mere appetite or an unexamined wish. Wanting an outcome does not itself specify a chosen course. The concept directs attention toward how agents consider what they can do and commit themselves to an available action."
+    },
+    {
+      "heading": "Epictetus changes the emphasis",
+      "text": "Epictetus gives prohairesis a central role in the responsible use of impressions and judgment. His account emphasizes the sphere of choice through which a person evaluates and directs conduct. This Stoic development is related to earlier usage without being interchangeable with Aristotle's particular analysis of deliberative choice."
+    },
+    {
+      "heading": "Agency does not abolish limits",
+      "text": "Bodies, institutions, resources, and circumstances constrain what happens. Prohairesis should not become a slogan claiming that sufficient willpower controls every outcome. The philosophical issue is how evaluative commitment and responsibility operate within conditions, including the distinction between judging an impression and guaranteeing the external result one hopes to achieve."
+    },
+    {
+      "heading": "Practice begins with discrimination",
+      "text": "A useful exercise separates what an agent can directly choose from what requires cooperation, luck, or unavailable resources. The boundary itself may need careful investigation. Ethical attention then turns toward reasons, commitments, and conduct, avoiding both exaggerated fantasies of control and the conclusion that constrained action has no significance."
+    }
+  ],
+  "literary": "The storm withheld the harbor, the body withheld its strength, yet within those refusals she chose how to hold the lantern, making no empire of the little light entrusted to her.",
+  "art_caption": "Two protective forms shelter a small flame while currents continue outside: meaningful agency remains bounded by conditions it cannot command.",
+  "accent": "397F79",
+  "theme": "201A32"
+}

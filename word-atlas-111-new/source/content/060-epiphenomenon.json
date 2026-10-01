@@ -1,0 +1,31 @@
+{
+  "index": 60,
+  "slug": "epiphenomenon",
+  "word": "epiphenomenon",
+  "pronunciation": "",
+  "tagline": "A dependent appearance raises a question about causal return.",
+  "definition": "A secondary phenomenon accompanying or resulting from another process; in stronger philosophical uses, an effect that does not itself exercise causal influence on the underlying process responsible for its occurrence.",
+  "etymology": "Combines epi-, upon or in addition, with phenomenon, something appearing; the word's stronger causal implications depend on its intellectual context.",
+  "sections": [
+    {
+      "heading": "MEANING IN MOTION",
+      "text": "The appearance of a rainbow in spray depends on droplets, light, and the observer's position; its visible pattern can illustrate a secondary effect without settling difficult questions about causation. In philosophy of mind, epiphenomenalism makes a stronger claim: mental events arise from physical events but do not cause physical events in return."
+    },
+    {
+      "heading": "THE CRUCIAL DISTINCTION",
+      "text": "That controversial doctrine should not be smuggled into every casual use of epiphenomenon. Calling something secondary also does not mean it is unimportant. One must specify the relevant process, the proposed dependence, and which causal powers are being denied. Causal language needs explicit limits."
+    },
+    {
+      "heading": "DRAW THE CAUSAL CLAIM",
+      "text": "Represent the proposed relation with arrows: the underlying process produces the secondary event. Then ask whether an arrow returns. Ordinary uses may leave that question open; strong epiphenomenalism denies a relevant return influence. A causal diagram forces the speaker to state which claim is actually being made."
+    },
+    {
+      "heading": "INDICATION IS NOT CONTROL",
+      "text": "A visible indicator can help an observer predict a process without itself controlling the process. That epistemic usefulness differs from causal efficacy. The distinction complicates the word secondary: something may matter greatly as evidence or experience even if a theory denies it a particular causal role."
+    }
+  ],
+  "literary": "Above the machinery's practical thunder a trembling brilliance gathered in the spray, beautiful enough to command every eye while explaining none of the ironwork that made its afternoon possible.",
+  "art_caption": "A lower mechanism gives rise to an upper halo through one-way links, separating dependence from reciprocal influence.",
+  "accent": "3C6484",
+  "theme": "201A32"
+}

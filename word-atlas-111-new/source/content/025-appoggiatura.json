@@ -1,0 +1,31 @@
+{
+  "index": 25,
+  "slug": "appoggiatura",
+  "word": "appoggiatura",
+  "definition": "A melodic ornament or accented nonchord tone that leans into a following note, often creating a moment of expressive dissonance before resolving by step, with performance conventions varying by musical style and period.",
+  "etymology": "From Italian appoggiatura, a leaning, related to appoggiare, to support or lean upon, reflecting the ornament's expressive relation to its resolution.",
+  "tagline": "A dissonance leans long enough to make arrival matter",
+  "art_caption": "A suspended melodic bead bows toward its lower neighbor above a stable harmonic foundation.",
+  "sections": [
+    {
+      "heading": "Leaning into resolution",
+      "text": "An appoggiatura commonly places an accented nonchord tone before a stepwise resolution. The temporary dissonance draws attention to the note on which it leans. Its expressive force depends on the harmonic and metrical setting, not simply on inserting an extra pitch before a melody reaches its next event."
+    },
+    {
+      "heading": "Notation does not settle duration",
+      "text": "Historical small-note notation can represent an ornament that takes substantial time from the principal note. Performance conventions vary across periods and styles. A tiny written symbol therefore need not mean an almost instantaneous sound; musical interpretation requires knowledge of the surrounding practice as well as the printed page."
+    },
+    {
+      "heading": "Neighboring ornaments are distinct",
+      "text": "The appoggiatura is not automatically identical to the very brief acciaccatura, and not every neighboring tone serves the same function. Accent, preparation, harmonic relation, and resolution help distinguish cases. Terminology itself has shifted historically, so analysis should be responsive to the repertoire instead of forcing every ornament into one simplified rule."
+    },
+    {
+      "heading": "Hear the weighted hesitation",
+      "text": "Sing a stable chord tone, then approach it from a neighboring pitch that briefly receives emphasis. Compare an immediate flick with a sustained leaning. The difference makes tension and arrival audible, though a proper analysis still depends on harmony and style. The exercise clarifies an expressive relation without replacing historical performance practice."
+    }
+  ],
+  "pronunciation": "",
+  "literary": "Her voice leaned one impossible heartbeat against the note it had not yet earned, and when it settled, the room felt the sweetness of a door finally accepting its hinge.",
+  "accent": "8B65AD",
+  "theme": "201A32"
+}

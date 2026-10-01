@@ -1,0 +1,31 @@
+{
+  "index": 79,
+  "slug": "iconotext",
+  "word": "iconotext",
+  "pronunciation": "",
+  "tagline": "Meaning happens between the word and the image",
+  "definition": "A work or interpretive unit in which images and words interact so closely that their combined meaning cannot be adequately described by treating either medium as an incidental supplement to the other.",
+  "etymology": "A modern scholarly compound joining icon, from Greek eikōn, image, with text, from Latin textus, a weaving or connected verbal composition.",
+  "sections": [
+    {
+      "heading": "Two media, one encounter",
+      "text": "A page can contain both writing and illustration without making their relation especially consequential. Iconotext directs attention to cases where their interaction produces the work's meaning. The task is to explain what happens between the modes, rather than merely count how many modes appear."
+    },
+    {
+      "heading": "The productive disagreement",
+      "text": "Suppose a caption calls a room “perfectly orderly” while the picture shows possessions scattered everywhere. The reader must decide whether the speaker is joking, mistaken, defensive, or using an unusual standard. The irony is generated through comparison rather than located entirely in either component."
+    },
+    {
+      "heading": "Sequence and spatial placement",
+      "text": "A picture encountered before a sentence can establish expectations that the sentence overturns. Moving the same words below another image can change their referent or tone. Iconotextual reading therefore considers layout, sequence, framing, and acts of attention alongside the content represented by each medium."
+    },
+    {
+      "heading": "Scope remains a question",
+      "text": "Scholars use iconotext with different emphases: a composite object, a reciprocal effect, or a mode of reading. It is useful to identify the intended sense. The term should sharpen an account of interaction rather than replace one with the vague claim that everything is interconnected."
+    }
+  ],
+  "literary": "The page showed a door and said a departure, but between the black hinge and the white interval a third, unwritten traveler remained, carrying the meaning neither companion owned.",
+  "art_caption": "Linear strips and colored forms interweave: neither stream carries the final pattern independently of the other.",
+  "accent": "766296",
+  "theme": "201A32"
+}

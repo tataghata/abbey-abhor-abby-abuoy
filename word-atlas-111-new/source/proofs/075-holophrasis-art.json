@@ -1,0 +1,12 @@
+{
+  "stem": "075-holophrasis",
+  "triangles": 107960,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.13513958333333334,
+  "render_seconds": 0.74,
+  "method": "local-procedural-3d"
+}

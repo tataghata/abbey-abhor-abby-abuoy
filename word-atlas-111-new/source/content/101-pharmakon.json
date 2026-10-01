@@ -1,0 +1,31 @@
+{
+  "index": 101,
+  "slug": "pharmakon",
+  "word": "pharmakon",
+  "pronunciation": "",
+  "tagline": "What sustains a capacity can also alter its dependence",
+  "definition": "An ancient Greek word used for a drug, remedy, or poison according to context; Derrida's reading of Plato explores how its unsettled implications disturb simple oppositions between healing and harming.",
+  "etymology": "From ancient Greek pharmakon, with meanings including drug, remedy, and poison; a secure deeper derivation is not required to explain its philosophical use.",
+  "sections": [
+    {
+      "heading": "A word with several uses",
+      "text": "Ancient Greek pharmakon can name a drug, remedy, or poison according to context. This lexical range matters, but it does not mean Greek speakers were incapable of distinguishing healing from harm. A philosophical reading investigates how particular contexts activate or suppress the possibilities carried by the term."
+    },
+    {
+      "heading": "Writing and memory",
+      "text": "In Plato's Phaedrus, writing is proposed as a pharmakon for memory, while the reply questions whether reliance on external marks encourages forgetfulness and merely apparent wisdom. The debate concerns how a support transforms the capacity it serves, not simply whether inscriptions are universally good or universally bad."
+    },
+    {
+      "heading": "Derrida follows the tension",
+      "text": "Derrida's “Plato's Pharmacy” examines how translation and argument handle this term's unsettled implications. Selecting one favorable or unfavorable equivalent can stabilize an opposition that the text complicates. This is a particular interpretive argument, whose force depends on the reading rather than on a dictionary announcing that all distinctions collapse."
+    },
+    {
+      "heading": "An analogy with limits",
+      "text": "A reminder system can extend what someone manages while increasing dependence on that system. Such an example illustrates a pattern of support and vulnerability; it does not by itself prove Derrida's interpretation. The same concept should not erase differences among literal medicines, textual practices, technologies, and social institutions."
+    }
+  ],
+  "literary": "She drank remembrance from the little bottle, and thereafter remembered everything except the inward labor by which remembering had once been hers, the cure flowering through the wound it made.",
+  "art_caption": "One vessel's continuous stream feeds growth and loosens a brittle construction: benefit and damage share a material source.",
+  "accent": "397F79",
+  "theme": "201A32"
+}

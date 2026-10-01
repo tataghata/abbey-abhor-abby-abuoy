@@ -1,0 +1,31 @@
+{
+  "index": 61,
+  "slug": "episteme",
+  "word": "episteme",
+  "pronunciation": "",
+  "tagline": "What can appear as knowledge has conditions.",
+  "definition": "Knowledge or understanding in ancient Greek usage; in Foucault's archaeology, the historically specific relations and conditions that organize what can count as knowledge across particular fields and practices within an era.",
+  "etymology": "Greek epistēmē means knowledge or understanding, from epistasthai, to know; later philosophical borrowing gives the word meanings beyond its ancient uses.",
+  "sections": [
+    {
+      "heading": "MEANING IN MOTION",
+      "text": "In Plato or Aristotle, epistēmē can concern knowledge distinguished from opinion or other intellectual capacities, with differences between their accounts. Foucault repurposes the term to investigate the conditions under which statements and disciplines become intelligible as knowledge. Historical conditions themselves become an object of inquiry."
+    },
+    {
+      "heading": "THE CRUCIAL DISTINCTION",
+      "text": "Comparing historical ways of classifying living things can reveal changes deeper than adding new specimens to an unchanged list. An episteme is not simply an individual's worldview, a universal collective belief, or a secret rule consciously imposed by authorities. Its meaning must be located within the specific philosopher and method being discussed."
+    },
+    {
+      "heading": "WHEN THE TABLE CHANGES",
+      "text": "Adding a specimen to an existing classification differs from changing the relations by which specimens become comparable. The sculpture keeps its elements recognizable while rotating the organizing divisions. It asks whether historical change affects only the contents of knowledge or also the rules that make those contents intelligible."
+    },
+    {
+      "heading": "READ ACROSS PRACTICES",
+      "text": "A single unusual opinion cannot establish an episteme. An archaeological inquiry examines relations among statements, disciplines, and practices across a historical field. Look for what questions become possible, which distinctions organize evidence, and which objects of inquiry emerge, rather than hunting for one secret sentence everyone believed."
+    }
+  ],
+  "literary": "The cabinet held the same shells, yet another century rearranged the reasons they could be neighbors, and knowledge changed its furniture before anyone agreed that the room itself had moved.",
+  "art_caption": "The same colored items are reorganized by different divisions, showing a change in the framework of classification.",
+  "accent": "597044",
+  "theme": "201A32"
+}

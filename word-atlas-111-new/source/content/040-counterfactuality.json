@@ -1,0 +1,31 @@
+{
+  "index": 40,
+  "slug": "counterfactuality",
+  "word": "counterfactuality",
+  "pronunciation": "",
+  "tagline": "One altered condition; a world of disciplined consequences.",
+  "definition": "The character of considering what would be, or would have been, the case under a supposition contrary to fact, using an alternative condition to examine consequences, dependence, or possibility.",
+  "etymology": "Built from counter-, against or contrary to, and factual, relating to facts; the abstract ending names the condition or character of such opposition.",
+  "sections": [
+    {
+      "heading": "MEANING IN MOTION",
+      "text": "If the bridge had remained open, the ambulance would have arrived earlier proposes a different antecedent and evaluates an imagined consequence. Such reasoning supports causal inquiry, planning, regret, and historical analysis, but its credibility depends on which surrounding facts remain fixed."
+    },
+    {
+      "heading": "THE CRUCIAL DISTINCTION",
+      "text": "A changed bridge need not imply changed weather or a different patient. Philosophers disagree about how best to select relevant alternatives, including approaches involving possible worlds or causal models. Counterfactuality therefore differs from unrestricted fantasy: disciplined alternatives preserve enough structure to make the comparison informative."
+    },
+    {
+      "heading": "HOLDING THE BACKGROUND STILL",
+      "text": "Counterfactual reasoning needs selective stability. To ask whether a bridge closure delayed an ambulance, keep relevant circumstances comparable before tracing consequences of reopening it. Changing every background condition at once would make the imagined improvement impossible to attribute to the particular intervention under consideration."
+    },
+    {
+      "heading": "THE DANGER OF HINDSIGHT",
+      "text": "Knowing the actual outcome can make an alternative seem more predictable than it was. Historical counterfactuals therefore require evidence about available choices and constraints. The paired routes invite comparison, but their symmetry is an analytical convenience: real histories may amplify a small difference through many interactions."
+    }
+  ],
+  "literary": "Had the latch held, the letter would have slept beneath the door until morning, and the city we remember would have missed its appointment with a wholly different sorrow.",
+  "art_caption": "Matched routes differ at one gate, isolating the changed condition from the surrounding scene.",
+  "accent": "AA5348",
+  "theme": "201A32"
+}

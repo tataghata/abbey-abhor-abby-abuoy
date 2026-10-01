@@ -1,0 +1,12 @@
+{
+  "stem": "037-chronotope",
+  "triangles": 354690,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.15437638888888888,
+  "render_seconds": 0.75,
+  "method": "local-procedural-3d"
+}

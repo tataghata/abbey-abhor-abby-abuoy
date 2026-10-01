@@ -1,0 +1,12 @@
+{
+  "stem": "099-paronomasia",
+  "triangles": 110792,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.06053337673611111,
+  "render_seconds": 0.7,
+  "method": "local-procedural-3d"
+}

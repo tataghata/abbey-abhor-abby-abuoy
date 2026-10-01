@@ -1,0 +1,31 @@
+{
+  "index": 63,
+  "slug": "equifinality",
+  "word": "equifinality",
+  "pronunciation": "",
+  "tagline": "The same ending can conceal different beginnings.",
+  "definition": "The possibility that different starting conditions or developmental pathways can lead to the same or a similar outcome, especially in systems, organizational, and developmental accounts where no single route is necessary.",
+  "etymology": "Combines equi-, equal, with finality, concerning an end or outcome; systems theory gives the compound a specific account of convergent results.",
+  "sections": [
+    {
+      "heading": "MEANING IN MOTION",
+      "text": "Two communities might achieve similar reductions in water use through different combinations of pricing, technology, and shared habits. Equifinality warns against inferring one unique history from a present result. In developmental research, comparable outcomes can likewise emerge from different interacting circumstances, without implying that every path is equally likely or interchangeable."
+    },
+    {
+      "heading": "THE CRUCIAL DISTINCTION",
+      "text": "The converse concept, multifinality, concerns similar starting conditions leading to different outcomes. Neither principle eliminates causation; both challenge overly simple mappings between beginnings and endings. Explaining a result still requires identifying the mechanisms and constraints that made each route possible."
+    },
+    {
+      "heading": "THE INVERSE PROBLEM",
+      "text": "An outcome alone may not reveal the path that produced it. Two organizations can achieve similar retention rates through different policies and cultures. Working backward from the result therefore requires additional evidence; equifinality explains why a persuasive single origin story can outrun what the observed endpoint establishes."
+    },
+    {
+      "heading": "TRANSPORTING A SUCCESS",
+      "text": "A successful method may depend on local resources, interactions, and timing. If several routes reach a similar outcome, copying one route elsewhere is not automatically optimal. Compare mechanisms and constraints before turning a successful case into a universal recipe; convergence of results does not erase differences in feasibility."
+    }
+  ],
+  "literary": "By drought, by discipline, by the new quiet ingenuity of pipes, the three towns arrived at the same diminished thirst, each carrying a different history into the common measure.",
+  "art_caption": "Distinct trajectories reach a shared terminal chamber without losing the differences in their routes.",
+  "accent": "296F69",
+  "theme": "201A32"
+}

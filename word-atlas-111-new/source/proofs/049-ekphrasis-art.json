@@ -1,0 +1,12 @@
+{
+  "stem": "049-ekphrasis",
+  "triangles": 200922,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.154466015625,
+  "render_seconds": 0.74,
+  "method": "local-procedural-3d"
+}

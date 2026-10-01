@@ -1,0 +1,31 @@
+{
+  "index": 99,
+  "slug": "paronomasia",
+  "word": "paronomasia",
+  "pronunciation": "",
+  "tagline": "Two meanings meet because the mouth nearly repeats itself",
+  "definition": "Wordplay exploiting resemblance of sound between words, or related ambiguity, to bring distinct meanings into contact; often called punning, it can serve comedy, argument, mnemonic emphasis, or serious poetic association.",
+  "etymology": "From Greek paronomasia, a word alteration or play on words, related to onoma, name; the term entered the classical rhetorical vocabulary.",
+  "sections": [
+    {
+      "heading": "Resemblance activates difference",
+      "text": "Paronomasia brings distinct meanings into contact through similar or identical sounds, or through related ambiguity. A baker who “kneads advice” makes an audience hear occupational labor and personal need together. The effect depends on activating both meanings, not merely on noticing that several syllables happen to repeat."
+    },
+    {
+      "heading": "More than a small joke",
+      "text": "A pun can be comic, but it can also compress a criticism, bind a motif across a poem, or make a phrase memorable. Sound supplies a bridge on which incompatible meanings can briefly meet. The resulting association may be serious even when its linguistic mechanism invites laughter."
+    },
+    {
+      "heading": "Similarity cannot prove kinship",
+      "text": "Resembling sounds do not establish a shared etymology or demonstrate that two concepts are essentially connected. Paronomasia exploits precisely that seductive leap. A poet can make the coincidence productive while a historical explanation still needs independent evidence about derivation, borrowing, and changes in pronunciation and meaning."
+    },
+    {
+      "heading": "The audience completes it",
+      "text": "A pun disappears if readers know only one activated meaning or if translation removes the sound resemblance. Different audiences can therefore encounter different works within the same words. Identifying the mechanism helps explain the effect more precisely than praising “wordplay” as an undifferentiated sign of verbal cleverness."
+    }
+  ],
+  "literary": "The miller, ground down by his grinding, found flour in every hour and no flower in any season, until sound itself seemed the wheel that turned his meanings against him.",
+  "art_caption": "Two matching sound curves arrive at unlike forms: phonetic resemblance carries a key and a growing branch into one encounter.",
+  "accent": "766296",
+  "theme": "201A32"
+}

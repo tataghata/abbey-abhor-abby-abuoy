@@ -1,0 +1,31 @@
+{
+  "index": 11,
+  "slug": "amphiboly",
+  "word": "amphiboly",
+  "definition": "Ambiguity produced by grammatical structure, where the same arrangement of words permits more than one interpretation, sometimes enabling misleading reasoning when an argument silently changes which structural reading it relies upon.",
+  "etymology": "From Greek amphibolia, ambiguity, related to expressions of being thrown or placed on both sides, through Latin and later logical vocabulary.",
+  "tagline": "One sentence, two grammatical architectures",
+  "art_caption": "The same five modules connect through two differently branching frames.",
+  "sections": [
+    {
+      "heading": "Two ways to attach a phrase",
+      "text": "In “I saw the sailor with the telescope,” the instrument may belong to the observer or the sailor. The words remain unchanged while their grammatical relations differ. Amphiboly arises from this structural doubleness, making the sentence's architecture rather than a single dictionary entry the principal source of uncertainty."
+    },
+    {
+      "heading": "Ambiguity becomes an argument",
+      "text": "A fallacy of amphiboly occurs when reasoning depends on shifting between incompatible structural readings. An ambiguous premise is accepted under one interpretation, then used as if another had been established. The error lies in the inferential transition; an ambiguous sentence by itself is not automatically a defective argument."
+    },
+    {
+      "heading": "Distinguish the semantic hinge",
+      "text": "A word such as bank can have different lexical senses without its sentence changing grammatical structure. That is a different source of ambiguity, though the two can coexist. Separating word meaning from phrase attachment helps explain why a passage is uncertain and what revision would make the intended interpretation explicit."
+    },
+    {
+      "heading": "Keep both structures visible",
+      "text": "Draw two small trees for the telescope sentence, attaching the final phrase to different elements. Then paraphrase each reading in unambiguous prose. A poem may benefit from retaining both, whereas a contract or technical instruction may require choosing. The appropriate response depends on what the language is trying to accomplish."
+    }
+  ],
+  "pronunciation": "",
+  "literary": "He watched the sailor with the telescope until the instrument, tired of belonging to two men in one sentence, turned its brass eye upon the grammar between them.",
+  "accent": "BC7737",
+  "theme": "201A32"
+}

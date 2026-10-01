@@ -1,0 +1,668 @@
+[
+  {
+    "image": "atlas-001-ablaut-8000x10000.png",
+    "sha256": "1aad4e243fd7218cfc9846558a91af0e7e33a45a72e1756a3feb79387f979870",
+    "bytes": 5733373,
+    "art_sha256": "5fd1bc547b908e8895fd0139516e926f1f4bb2d86eb22cfd7662eb39b7735660"
+  },
+  {
+    "image": "atlas-002-aboulia-8000x10000.png",
+    "sha256": "501398a675cdfded57644c81b9c56b5e6d14b0d37298700411f356529aceef51",
+    "bytes": 5029665,
+    "art_sha256": "e64e5bc60b071a47ca5cacb8484c231266e028ee75434d68cb8c4eed083ddb2c"
+  },
+  {
+    "image": "atlas-003-acatalepsy-8000x10000.png",
+    "sha256": "1f3ec8f328991a57aa548a022c2ff262587c6a91e19d4876045aaf750cb62b2f",
+    "bytes": 4773406,
+    "art_sha256": "19d67431cedcaac9ff4f83acbe1ce403b610c70588afca2c866ec28ae928e9df"
+  },
+  {
+    "image": "atlas-004-acedia-8000x10000.png",
+    "sha256": "485aa3648e85bb275d478682f74d5ad987e54c0a29a3cbdf2b2c92d5e8df121b",
+    "bytes": 4801247,
+    "art_sha256": "258fe836432f7e93fb217fdfa33bf9ac5878fc14f228c343c672865b9d96322c"
+  },
+  {
+    "image": "atlas-005-adumbration-8000x10000.png",
+    "sha256": "50a19a415c0e5031a6c22a07a7785964c602f9797b2e6025373d1be1a9dd08ed",
+    "bytes": 5405362,
+    "art_sha256": "10e8262238ccda2986dc2ceea969f6e0d0de94805f750d4ab9a4fb04e2afb57e"
+  },
+  {
+    "image": "atlas-006-aisthesis-8000x10000.png",
+    "sha256": "69b91e3f04b80ef9306089cb28308e8552de554986a95c33c715692875cfe4ae",
+    "bytes": 6168496,
+    "art_sha256": "0053d7783f6fb0763bcd755bfa2ec0118fc94b32d0d998fe60efb865d75bbf51"
+  },
+  {
+    "image": "atlas-007-aleatoricism-8000x10000.png",
+    "sha256": "b5c8e8b520a242c13ea507ce042698b5a6d521370569f31a5da5888cae74c514",
+    "bytes": 4719690,
+    "art_sha256": "431a11045d26e1cc19edbff6346ead6da3a33425dcebda545aa8d3930bcc92e0"
+  },
+  {
+    "image": "atlas-008-alexithymia-8000x10000.png",
+    "sha256": "1b02ff3fce218bde12aa3547b2ee1087d83b4cd0023bbc2e5c11223d1006fa07",
+    "bytes": 5043644,
+    "art_sha256": "cd93cd0d24ebae88f47ab0bd524db5658a2686160dbff9b4941db1eb7e6ea64a"
+  },
+  {
+    "image": "atlas-009-allesthesia-8000x10000.png",
+    "sha256": "b73ce69a82bbc2a505425887fc7997725d2222c6a6fe7b6d1bd81a22dae9c6f5",
+    "bytes": 4885700,
+    "art_sha256": "307da39b83f6f24f0e7b231c6959144005baf79cd8297a69b97403df1b58ca61"
+  },
+  {
+    "image": "atlas-010-allochrony-8000x10000.png",
+    "sha256": "5be05bdb744cad7f4a333caa76869d12c66241482cc2026519a6640f9a77634c",
+    "bytes": 5186425,
+    "art_sha256": "afa68168d45a83d60b3845d053a6bff525adf2747cf197733a20ecc6b39a6e1b"
+  },
+  {
+    "image": "atlas-011-amphiboly-8000x10000.png",
+    "sha256": "04a5110a2e89944f478e212017164354745dd9c38bb4b2284388770c4f5c0272",
+    "bytes": 4066776,
+    "art_sha256": "5e986399a70e797dd338bb5a0f0a9ad13c8cfdb62310addc24276a4d45694ecf"
+  },
+  {
+    "image": "atlas-012-anamnesis-8000x10000.png",
+    "sha256": "dc49d05ddb3b5bbefe782042b4d5aa8a8851961c7d55a1d7e86e8a6c3f3191d9",
+    "bytes": 4270688,
+    "art_sha256": "42c6940ad9fd707da954897e35808f40f65ef1a540cba091ef2ef04627c07db9"
+  },
+  {
+    "image": "atlas-013-anamorphosis-8000x10000.png",
+    "sha256": "219e770e2d175cb39d95cf0c3be499a019532f2a48a1d463ea70a630ba71922a",
+    "bytes": 5784146,
+    "art_sha256": "6b1d6f390d07a6f007016e1c5092097d086064b641b4a9b01b4b3da265dc3b4b"
+  },
+  {
+    "image": "atlas-014-anaphora-8000x10000.png",
+    "sha256": "40bc7ae824b187d5dc74c2f341b08deb4b548d62cffaa5caee11ddd22e192a5e",
+    "bytes": 4690969,
+    "art_sha256": "2d56ad7b4978dbab97aae2135f302fa41d4008404472916b8f19baa90af76656"
+  },
+  {
+    "image": "atlas-015-anastrophe-8000x10000.png",
+    "sha256": "f69c59100d56544356a04ad60ca29f8854d9c2cbbdd436ff656a78d03ebe90f2",
+    "bytes": 3878188,
+    "art_sha256": "7dacc8ec1f1327cc874b89cedda311ad5e8cdc36d25ab3d47a747e3d357b51e1"
+  },
+  {
+    "image": "atlas-016-aniconism-8000x10000.png",
+    "sha256": "0b73c771aecc350cbd29e1d817d12e7c5e53400c4b498cce60eec925af78aac0",
+    "bytes": 4541075,
+    "art_sha256": "c30626ccab364a34d13d01bf5efb4be3814394ad46fbef8f3f0b225c2287b5ad"
+  },
+  {
+    "image": "atlas-017-antanaclasis-8000x10000.png",
+    "sha256": "19c3268d2b92e6f2a327e20afdcf7edb869d01f7d4bd4a768d526cd76e8cd164",
+    "bytes": 4252209,
+    "art_sha256": "838539db1314618204bcf0689ab14e21cd5f61f78b79d68b73997bd53fe0a877"
+  },
+  {
+    "image": "atlas-018-antimetabole-8000x10000.png",
+    "sha256": "5d7e47d629c03519112a2de869150a9a5fe223be7aed3ae932edbdad714fe046",
+    "bytes": 5256821,
+    "art_sha256": "4cd17a3d527a97e6af774d687d83235ed2831518b517907415ba4233102fad4b"
+  },
+  {
+    "image": "atlas-019-antiphrasis-8000x10000.png",
+    "sha256": "a3c4247b1de2ac867a2bd58be5c58dd519a6d44260019430a4c9bbb4713e954e",
+    "bytes": 3867197,
+    "art_sha256": "322dafcb5746d0c2a853a9a7313ac714966ef02ed8106a6a3ca4fd8791d385a6"
+  },
+  {
+    "image": "atlas-020-antistrophe-8000x10000.png",
+    "sha256": "3ecbb7ebf16a6a55dcd2d1b35c5de547ab296952ae8f707f0dbca9f91caf7522",
+    "bytes": 4326295,
+    "art_sha256": "f98463711f89e05b6679817808a93ca1ee91c2aa131f5f8bc77f47d0169abedb"
+  },
+  {
+    "image": "atlas-021-aphanisis-8000x10000.png",
+    "sha256": "f6ca97a96fdea039e59efe528924b44fe9ef35a3ebbf87f7c5580636eab47cef",
+    "bytes": 7031148,
+    "art_sha256": "2c82d804bf5d7cdc59e9ad3ae74930ce025cbbf4f144f3e3795895ce6ccfdd2d"
+  },
+  {
+    "image": "atlas-022-apocatastasis-8000x10000.png",
+    "sha256": "fe6087b8ca027f246d07f536e6d39b485a18169c80c9a373bba725660b9ca01e",
+    "bytes": 4685716,
+    "art_sha256": "918f91bc76f826c94145ff475d98d2eeab92d96c47fc6fc3ba62402598c2dafb"
+  },
+  {
+    "image": "atlas-023-aposiopesis-8000x10000.png",
+    "sha256": "83c2deec994343f35fa987483132fb450cf3539e2b3b513628a898cda5392110",
+    "bytes": 3672092,
+    "art_sha256": "37b955a034bc2bbabfe8b8378f099968086d8b1ae6e3698f853755817bf33dd5"
+  },
+  {
+    "image": "atlas-024-apperception-8000x10000.png",
+    "sha256": "e3d6fee44e7b21373f11789ea511468d4a06d73b4666fbd7f5161788653a07eb",
+    "bytes": 4013909,
+    "art_sha256": "f2f64ff7de9d7e6da7f60bd27e6c1f3625b4aa77148fa743444acb720d6810b3"
+  },
+  {
+    "image": "atlas-025-appoggiatura-8000x10000.png",
+    "sha256": "0433b1d41f9d0f05459b60923d8364e1c74896bb16d36b3ec84e067e61937faf",
+    "bytes": 3461834,
+    "art_sha256": "35e9c899a85d7645e3a3d8943e26bf147a96c8acd29999c9c166865c78603862"
+  },
+  {
+    "image": "atlas-026-arche-8000x10000.png",
+    "sha256": "1155e84b5d341de417b3314b8bdaa03e9fd75a564f20f8a7e286305dc5b48605",
+    "bytes": 4827137,
+    "art_sha256": "50b9313af24f2299e3960364449a1da70042294741ccd42d5d3e491dc2551f4b"
+  },
+  {
+    "image": "atlas-027-asyndeton-8000x10000.png",
+    "sha256": "bb885301587eec9389cc73193fb7a82eb2a4991e874f7bcdebc05515f39ea0bb",
+    "bytes": 4536934,
+    "art_sha256": "351f323716a345bcf99cff20c41735091dc465f7fdd2dd840a6f0c62503b4580"
+  },
+  {
+    "image": "atlas-028-ataraxia-8000x10000.png",
+    "sha256": "64cefa5feb6911e27c93f9293f879740bd7238e450c49127ec57ecbd94e9f273",
+    "bytes": 5388289,
+    "art_sha256": "f4f48823fb70e99b6106c2bced4e037414525c07c7321964014a122b9a4d5cac"
+  },
+  {
+    "image": "atlas-029-autotelism-8000x10000.png",
+    "sha256": "f0e004be6971eb78c93ebda6b0f815d17cc28e8bcb8888b8590c59ba56680f08",
+    "bytes": 4958809,
+    "art_sha256": "425ad4cc43f17d322a385fe9e7211da48c5d984b20e681bb06507884104f4d2c"
+  },
+  {
+    "image": "atlas-030-bathos-8000x10000.png",
+    "sha256": "8a2850b1c572200be372d4373d335007bb0d9c9bfd4d29f2225c93d1c7a0adec",
+    "bytes": 3524410,
+    "art_sha256": "ccaf084baae44b51be34f8f73b6b0a8b5ddeecac5bce7ddbcd5840cfa6bbdaba"
+  },
+  {
+    "image": "atlas-031-bricolage-8000x10000.png",
+    "sha256": "cb48ffc90f7eadb0f4d4528957d9845a4e537576c26ad206c7fb572349998ff2",
+    "bytes": 4610088,
+    "art_sha256": "d74e31f3762bbc84d7d256166401df4de363cc152ca05c15e82a1909e8dcaf97"
+  },
+  {
+    "image": "atlas-032-catabasis-8000x10000.png",
+    "sha256": "25333820e8daab0e87fd80fc259291ec74e04d0103e621824228e9cd097aa051",
+    "bytes": 3103380,
+    "art_sha256": "69c4f2917350ed6909242bd8878456a2194a14144b24af54763d7d9090e1999a"
+  },
+  {
+    "image": "atlas-033-catachresis-8000x10000.png",
+    "sha256": "2358e20c0819546577118bf3d9e32c5b9c46e89d4c73c0c9b14f041bb6d99154",
+    "bytes": 3828969,
+    "art_sha256": "b426b57333d2c9f4f0c65179d120892bd42c385d68efbab412c7d6e49aab74d1"
+  },
+  {
+    "image": "atlas-034-cataphora-8000x10000.png",
+    "sha256": "2fc6e5ae5bc73c4ce1f9b8a9a02286669eaf570e81f25f6afa060497036f471d",
+    "bytes": 4532872,
+    "art_sha256": "ab3be11dccda6ccdf160c81d980d55c27697fc66013f87827dd97af8429baf99"
+  },
+  {
+    "image": "atlas-035-catharsis-8000x10000.png",
+    "sha256": "cdde6605ef625b7e1e9a3001c31d7f5e326605948bff03e5163e4130ec5074c5",
+    "bytes": 5253773,
+    "art_sha256": "a7bceaefa23e5c9ea62a089cdcba9c444a13b86c3621ab09d0c6159cd19eb7a2"
+  },
+  {
+    "image": "atlas-036-chora-8000x10000.png",
+    "sha256": "7a3e8bef628fc443c12f8e6a7810ba90b8e11d1e7f4f1b97acbcbcee9ec670ec",
+    "bytes": 6099567,
+    "art_sha256": "44d54c3efde6a94636e2d0d2d1a2f5dbf02538629aa3bff1b0f25f8bed9edbea"
+  },
+  {
+    "image": "atlas-037-chronotope-8000x10000.png",
+    "sha256": "a8c103b12b4cba0c295c91f7934c6224abc24bd6d263b66e6f9bf8f0b2f315cf",
+    "bytes": 4693010,
+    "art_sha256": "695668f51d9992096613d2e1b38f1290a8a017fbdfbed9fda7d182143433aae3"
+  },
+  {
+    "image": "atlas-038-concrescence-8000x10000.png",
+    "sha256": "8174ec91e65c492854c7a50a98dde17fdf6f8241f403f2e78b5df4b49f6b48ea",
+    "bytes": 5641558,
+    "art_sha256": "a6db3e36c6c9e762350ac7811fc3dd181c101d20ca713ea4b9954508413b5ec5"
+  },
+  {
+    "image": "atlas-039-conatus-8000x10000.png",
+    "sha256": "dd51252da10a9129b316b7870b3317401c626d2ef4ff0298c68f7d9a5cf5b602",
+    "bytes": 4815294,
+    "art_sha256": "a73ab3c01bab58305ade878b18ead6639fff8633275b440fa3637473297c1782"
+  },
+  {
+    "image": "atlas-040-counterfactuality-8000x10000.png",
+    "sha256": "b6a00bdfaed14dcb737142b3b9d0248aef92f338c71be69c4af793b2361cca57",
+    "bytes": 3218685,
+    "art_sha256": "f38ac714e29d79987fa7c20bd1c4519cf9e7236f053732f3adf39bf27d7226d1"
+  },
+  {
+    "image": "atlas-041-defamiliarization-8000x10000.png",
+    "sha256": "7443ab92662841ea2c107b8822b8593ef4bfaf2983597f724cdda4facc368207",
+    "bytes": 5122368,
+    "art_sha256": "e078305f8b78e95fb9ded138d1905f61a6d10ca08caacc7f741277f9b0bb91bc"
+  },
+  {
+    "image": "atlas-042-dehiscence-8000x10000.png",
+    "sha256": "0a9db05de83695d742f5dd3c273b7b84c74e7306c985f2f1297e1d80c836d236",
+    "bytes": 4229369,
+    "art_sha256": "b0469d29b1fdca9d2f8f61240e618767cdca7bc9ed93888b9708a2ee1d5a7814"
+  },
+  {
+    "image": "atlas-043-derealization-8000x10000.png",
+    "sha256": "0c3a635be0313a809bef56c45bccd7950fdccd0ceaa05ff9a8f13abb56e6213c",
+    "bytes": 3665499,
+    "art_sha256": "dac93cd4a4d5604b94329a4ea7a00f94fd9572f1483a07906a20dbbbc60af740"
+  },
+  {
+    "image": "atlas-044-diachronicity-8000x10000.png",
+    "sha256": "ac630fec7aebe2e911dc7b1dff414f4818ce9671e7593875c72f588c38b5f911",
+    "bytes": 3167855,
+    "art_sha256": "1fa35cd2afbbf9e56b57a8496dde8a668b1da6b6537443d3b86b47fe36c03e47"
+  },
+  {
+    "image": "atlas-045-differance-8000x10000.png",
+    "sha256": "676a4ad44b6a73e8c46da4f5f8323b1200ef79b989aa49be2ff3a392fadcf386",
+    "bytes": 4054202,
+    "art_sha256": "f7d1511dd876f3696237650c0be47d36e87df8349a7693cb20f6794d51a5bc5f"
+  },
+  {
+    "image": "atlas-046-disanalogy-8000x10000.png",
+    "sha256": "4afb5d8220b387e2f3a3e57d15cdce040d42e97bcfb9dc0996b0cf85f31e0079",
+    "bytes": 3868077,
+    "art_sha256": "561859284b54b7d979cd72bdffe5201186cdda8d60698883587fa257399cf1c7"
+  },
+  {
+    "image": "atlas-047-dissensus-8000x10000.png",
+    "sha256": "099235230644c043a8b3f4de412107dc313c1855309e00b44d69512508083249",
+    "bytes": 4334161,
+    "art_sha256": "ad5c59b016d139f24d9cbd98f35d9efbdb61d4164097b9e1a1a7640abb46b140"
+  },
+  {
+    "image": "atlas-048-dithyramb-8000x10000.png",
+    "sha256": "a622e3bc5bbec8f7cab33a31ac7ea32f485878f0375ceea5d974fdebdaf1f4ee",
+    "bytes": 7295073,
+    "art_sha256": "f157f43bf490b2a50e697b5569c151a99a9c79161a92e46d9f44173eab3a8453"
+  },
+  {
+    "image": "atlas-049-ekphrasis-8000x10000.png",
+    "sha256": "5b942e7e842c9369a50d1b4e5914e49983b19310a8c964bbabc9775977e76d44",
+    "bytes": 4646521,
+    "art_sha256": "45a34e113aeae4aa113c5575ede909f4f26535ce135c7b7d7579848d8e1530a2"
+  },
+  {
+    "image": "atlas-050-echolalia-8000x10000.png",
+    "sha256": "d6c9a9ce063fab55f1ea77824da7e0f0af4155c9a64d5f87a4c790113d731552",
+    "bytes": 3904031,
+    "art_sha256": "96052103d1d7e0e0336b856893678a05ad8616e793f4ff5834539275e0b32db9"
+  },
+  {
+    "image": "atlas-051-eidolon-8000x10000.png",
+    "sha256": "d2c82fb7e1a219b666e1da0a50cd72a86dcf1362d5af56d9d9c282a8126b2428",
+    "bytes": 4136514,
+    "art_sha256": "68b6ae2ca16d4707a779703ff62d19c3ae6d57611c9058d6e7a6f383d5987685"
+  },
+  {
+    "image": "atlas-052-ekstasis-8000x10000.png",
+    "sha256": "e3a800fefe0811a884fece51d0b764e88e75f42dddfed9bcceceaa3720c81105",
+    "bytes": 4994495,
+    "art_sha256": "bb8337d014217e72789fec5871becc698c895add7614f16d44c56a907a4ae8aa"
+  },
+  {
+    "image": "atlas-053-elenchus-8000x10000.png",
+    "sha256": "618854bbb948bc1ce07c0021891ec0651851f05d2d13698fbe77787035c2795c",
+    "bytes": 3872520,
+    "art_sha256": "7329ee3410d247f10c9a94ce0905e37115a65ce49ef7f03b84207a63419a466a"
+  },
+  {
+    "image": "atlas-054-enallage-8000x10000.png",
+    "sha256": "6be378ede9bbdfcd6d3b94e3b68aee78911932fa5e407cebff47ea09b863c4f9",
+    "bytes": 3452107,
+    "art_sha256": "c4e757448ed6a8b95920f8a4b2006c4d51d27c23d3cba172ef6a87f02a9fdc4b"
+  },
+  {
+    "image": "atlas-055-energeia-8000x10000.png",
+    "sha256": "136d84b6597c3f8f2460a6afdbf187a8311c123dab43291069a0bcc2c5557fe5",
+    "bytes": 3776832,
+    "art_sha256": "99463c64f07281e9d00e3edcbbb691829e8890ea9ae8d475b148cda691beb4c3"
+  },
+  {
+    "image": "atlas-056-entelechy-8000x10000.png",
+    "sha256": "92407acf00f989a0a459836336595055c208cf03cd67cfc01648b40d2cf7617d",
+    "bytes": 3808896,
+    "art_sha256": "9aeb82b01eac69099430a02cb463a2e6d158a613652672770e934af39f094eb2"
+  },
+  {
+    "image": "atlas-057-enthymeme-8000x10000.png",
+    "sha256": "402cb0dabc735c7f7c784d12cf8ea45f51bfb574d4d7d07b2c0f79ce6b21473d",
+    "bytes": 3528096,
+    "art_sha256": "0a2c0bf54d3595ae2a261284e43909ab7dd297aec97c77bc0c8fb22cc3906fa1"
+  },
+  {
+    "image": "atlas-058-epanalepsis-8000x10000.png",
+    "sha256": "e97640b72fca96369297e82c78d0d6609391a30d5c86833504dd9b84ac6d9a25",
+    "bytes": 4295690,
+    "art_sha256": "1017933ea62c2f18acbe491b8e178c5c16f4997b70b5643dd7addb79bf71c290"
+  },
+  {
+    "image": "atlas-059-epenthesis-8000x10000.png",
+    "sha256": "f619c38f0e1d80d4783ce2cca56dc26e56e5626b5c3e05f809729226fa25d7e7",
+    "bytes": 3386304,
+    "art_sha256": "307d0a0071489690532813ce0625a61a59ba03b9eacb6616f3b8519dcd24fd2c"
+  },
+  {
+    "image": "atlas-060-epiphenomenon-8000x10000.png",
+    "sha256": "3b86c2f2a86f9556dd6165fd9e5f2d544d5d5e0d91472c7b9c802a6db897248e",
+    "bytes": 4897826,
+    "art_sha256": "b7def5e605fdc03a1091ee35bd4c55eca8143d2a16b5b0f17d2684afeaf0b7b4"
+  },
+  {
+    "image": "atlas-061-episteme-8000x10000.png",
+    "sha256": "80e18ad227f37ceae6b98787c1ffeb0d6161bf60fdd5b6c487525509454a1f45",
+    "bytes": 3411930,
+    "art_sha256": "7adfae5c534682503bebf9eb56386bae3e52b2f48eff28fa828fc98105e8c295"
+  },
+  {
+    "image": "atlas-062-epizeuxis-8000x10000.png",
+    "sha256": "39888dfaa6cb617b02590b8e891abeaa114af37b95206c471fe6f35893a632d8",
+    "bytes": 3342352,
+    "art_sha256": "35f5a96ecfaed0c19defe70d066e063159c0b44f9dd587a2db22139559954c3d"
+  },
+  {
+    "image": "atlas-063-equifinality-8000x10000.png",
+    "sha256": "3006d7f358143ae9050430866bf298eefb52abf139d9a4464c5e9e221040a970",
+    "bytes": 4391953,
+    "art_sha256": "fb3e82fd3d7f832dc82110a639642677d8499cd50f6827a0f513484f9567d4c8"
+  },
+  {
+    "image": "atlas-064-eschaton-8000x10000.png",
+    "sha256": "8d8c3adabdfd89627e14950302899a50d3ee6d77438a706c11435155d9f8b7cf",
+    "bytes": 4747870,
+    "art_sha256": "f34a859cefe3a3e28d92e21f6a76a9846cd70804b1f1c025c2012670fa987504"
+  },
+  {
+    "image": "atlas-065-eucatastrophe-8000x10000.png",
+    "sha256": "087da97ec1b66d60665cfe78a9a75299ad6723b9b48ba4890a31cd2ba0605b7a",
+    "bytes": 5185646,
+    "art_sha256": "945f79f96876d2d1ff55ad2022f955964145d4a1ffc8793fa576d63186f50bc7"
+  },
+  {
+    "image": "atlas-066-exaptation-8000x10000.png",
+    "sha256": "5a50ddcd9a44f5ddc413e8509882f62ab5e4daf144fafe2df4f6279aae5d54f5",
+    "bytes": 6084857,
+    "art_sha256": "29a09c4989c9e9afbc6d85993dcc2c8459df3ec9f23892c9a08b5cfed16c8e79"
+  },
+  {
+    "image": "atlas-067-exergue-8000x10000.png",
+    "sha256": "e6c0966c2ee6725bf46c0dd6cd339402d5253cf00b54eb9d36d5c3431fc4e225",
+    "bytes": 4691054,
+    "art_sha256": "fda82d092eb675f1126cd656b27a68654e85cbd1e9346c9ddd9df29a871356fb"
+  },
+  {
+    "image": "atlas-068-exophora-8000x10000.png",
+    "sha256": "3c767143976b96a9635fbdcda33e0fe427441e87b5c5831217473cfb7ff1bcdf",
+    "bytes": 3261500,
+    "art_sha256": "aed3bfe091dfb34c1a3e2cb1814578ba17f240fc9f2c4a0e480a32f0539bf54a"
+  },
+  {
+    "image": "atlas-069-facticity-8000x10000.png",
+    "sha256": "18e7215053a272cceda0489a58cc695d6762088d4f243320786be84abfe8792e",
+    "bytes": 4892809,
+    "art_sha256": "a7ef44bd438a5a85a0d357d7e2e49a98f29cd918e5214183b4e1de8d23ca5af8"
+  },
+  {
+    "image": "atlas-070-fissiparity-8000x10000.png",
+    "sha256": "1a9370469d24917019eb68d8c10084b287614aed282e93a7443937ac74038d8c",
+    "bytes": 4448613,
+    "art_sha256": "f19dfe9d3d87b9b5964a0a4b1ca4c0f10f7b0989d5d5335c2e9f87a06a215c08"
+  },
+  {
+    "image": "atlas-071-fulguration-8000x10000.png",
+    "sha256": "fffe1baa04fca2aacdd6b2aec5f859ed9d8804c128fac6c0bee8fe5b9d11b6e9",
+    "bytes": 3630257,
+    "art_sha256": "a59e4c7087f42bdc1e58db9b3a71f7266c7e38a8310bd95d5d29c8526b24c8a8"
+  },
+  {
+    "image": "atlas-072-gnosis-8000x10000.png",
+    "sha256": "ba0b951634fa5c60d4af21050329f8d2e01c553984e87f2a553886c019e04d50",
+    "bytes": 3263566,
+    "art_sha256": "291b18b00a51242731ba29c2822a0e374c411195188422c5c8880fb72a841de5"
+  },
+  {
+    "image": "atlas-073-hendiadys-8000x10000.png",
+    "sha256": "426f77a7c2f36eba4d1843f563c6b13966675fe6cc29e03a040910a51508a8fd",
+    "bytes": 5703462,
+    "art_sha256": "ff51df2a2f24e9f6b18ed740201a1ddaa1ca0234210cfb94cf3918dae2bddab5"
+  },
+  {
+    "image": "atlas-074-heterotopia-8000x10000.png",
+    "sha256": "04f24857c8fb682b959858222a3f5717708d71949e0d6904627b2a1f6a61a8dd",
+    "bytes": 3918127,
+    "art_sha256": "ac093a4077a65f807fadd066209afd0a6466b51058c791259765c6ab1b8f72a2"
+  },
+  {
+    "image": "atlas-075-holophrasis-8000x10000.png",
+    "sha256": "5cd12ba9fde3bb48f9f60dcff50cd50c4532109167aca788ed6a750a85ad5832",
+    "bytes": 4820030,
+    "art_sha256": "0656d1c3f6cc87f9651b1f4d0d9f00abae36a6d0a4169d1c0a3345a73cb860d4"
+  },
+  {
+    "image": "atlas-076-homoioteleuton-8000x10000.png",
+    "sha256": "fd3815593798d6c884db18e39a32b55193d04908acb321e1a830a4fa3dff0354",
+    "bytes": 4246418,
+    "art_sha256": "3a640ab390d59635be186ba874eb1f94d3f1211a342baddd83fdbc9066498ef9"
+  },
+  {
+    "image": "atlas-077-hypostasis-8000x10000.png",
+    "sha256": "a9b1f248c7fb452a461032c207d97e720cd2a57692f4237c48398eae582f5243",
+    "bytes": 4622070,
+    "art_sha256": "937e4a81d139f6582b52e86b8fe691c19f3d102b00ad3f06583da79a0a043d39"
+  },
+  {
+    "image": "atlas-078-hypotaxis-8000x10000.png",
+    "sha256": "48665627569a104363ae0d732ab0bddd1ede578e9095c53baa3fe35f96056882",
+    "bytes": 3256607,
+    "art_sha256": "1e8989392c8b8b7c7f03467a2ccc8463ce7a1668640ffc2f312a769415bd353c"
+  },
+  {
+    "image": "atlas-079-iconotext-8000x10000.png",
+    "sha256": "fd04afc0824641b12adbb53281404d04563f6cc4048ad7a1922028412bffb8e7",
+    "bytes": 5197708,
+    "art_sha256": "d89763e5ac87bb7344ae5214d410400923ff7c4fefbd9b020cdbfb3213d0dc56"
+  },
+  {
+    "image": "atlas-080-illeism-8000x10000.png",
+    "sha256": "943e89d28ae96a863dabf53d2b8df247043663bb1846133424fc263ba958ff07",
+    "bytes": 3623479,
+    "art_sha256": "811738941afadc31a9d13075ca8b1374cf917297c61c0f1636cbaa25ae2711d4"
+  },
+  {
+    "image": "atlas-081-immanence-8000x10000.png",
+    "sha256": "c76c22b534c7d403a5728231a208a3c4962288ab175804772ea236b75049a9e2",
+    "bytes": 5891400,
+    "art_sha256": "e2615ae5836fc0551a493a301ca7fbcdaf2be04cde4768bfb72ed8a39e5c0ddd"
+  },
+  {
+    "image": "atlas-082-incommensurability-8000x10000.png",
+    "sha256": "045e669a4870d74d9c95cc59445dccbd86fe82034be5d7705b01dc0086f7f1d0",
+    "bytes": 3189468,
+    "art_sha256": "8fc4016da9c637ec3eb6f807689645c9e7c51083ddd830b9f15e4c3af06ca57c"
+  },
+  {
+    "image": "atlas-083-indexicality-8000x10000.png",
+    "sha256": "69965f5d4d9b639fe68c2f45a2513cf6f1fcd9cdac0ba57ef1b9160e7db30599",
+    "bytes": 4141630,
+    "art_sha256": "977da4b9d1bc991b6750feb25ed3a0f4c193d0ec89f471231a04ea36d1171241"
+  },
+  {
+    "image": "atlas-084-interpellation-8000x10000.png",
+    "sha256": "73f96bf0959a772700cee5acb5a1e624ca3517d46e1be0cbb1231e9c9e13baf7",
+    "bytes": 3931486,
+    "art_sha256": "e6ff3c217971d5c98fa4e556d8fd461e2b49cb71a23ef4a6500a1a382e07e252"
+  },
+  {
+    "image": "atlas-085-isomorphism-8000x10000.png",
+    "sha256": "a6389529d9d8fcff4c1741d5cff843a2ed9ce161a6be16ba468ca76625608c08",
+    "bytes": 4475961,
+    "art_sha256": "7964558ba33d6aceab473477977ba5ec00763eef2f3d903d5bbe32fa8667bd3f"
+  },
+  {
+    "image": "atlas-086-kairos-8000x10000.png",
+    "sha256": "e3806c0243f55f28346a5683ad6f46157de9a8fe8b3bb15ce27b22dc92f8d215",
+    "bytes": 5577335,
+    "art_sha256": "c0d4456c04d16caa08967d5270dcf2b024f2e7e6e8e358a7e20988a3cbdec03e"
+  },
+  {
+    "image": "atlas-087-kenosis-8000x10000.png",
+    "sha256": "f872c3bce4ed625a7cb8fd37f30aede8828b4c45739cf08d693d79037de1784c",
+    "bytes": 4385446,
+    "art_sha256": "baacd2a0d8f7f3008a2c233c55fb6de1060b01c7fb8d6cdc2239bc4b31b3d861"
+  },
+  {
+    "image": "atlas-088-logopoeia-8000x10000.png",
+    "sha256": "df0766fd90d2176b551b753f464c564fb6b9ade8040106405807a6dcfa3cd878",
+    "bytes": 3601484,
+    "art_sha256": "8effc2ce4bc11a4014fd30e209d9120097749c3aeed9bfb0be23e7b764e66d09"
+  },
+  {
+    "image": "atlas-089-mereology-8000x10000.png",
+    "sha256": "1ae7c0b6d7e9e391f4ad9eb5b9c2ba6c48badf2ee026cfbc7e74f1fc774a4513",
+    "bytes": 5019696,
+    "art_sha256": "4af21870d9ce195bb47d48ed7914b002faab8265535fef520de71b6d6aa8315c"
+  },
+  {
+    "image": "atlas-090-metanoia-8000x10000.png",
+    "sha256": "2514aa3e7733f5d8b8d365c234e13f976de40649079af302c10a01e8365dc0f8",
+    "bytes": 4251060,
+    "art_sha256": "380e41d762dc958c6648e2165a1ff2fa234a97831f0b87fbfdab234905a6e846"
+  },
+  {
+    "image": "atlas-091-metempsychosis-8000x10000.png",
+    "sha256": "5b80bc3d1f6ba73b4e49e1d71d1324a81a51787e3ada80635e22e93db2ffd1d7",
+    "bytes": 5878577,
+    "art_sha256": "c9ac457ebacea0663a142713f63ba41a9187a1eaecc1d512ce3dfa73299bfe41"
+  },
+  {
+    "image": "atlas-092-mimesis-8000x10000.png",
+    "sha256": "f828bd861818b89a32d49e0e6e4b188c44c64f67b8dd0cd7b0beedafb68b66c7",
+    "bytes": 4838559,
+    "art_sha256": "ababebddd208278d2560282d8ebeeffed9cfb700d07c2ee75c804055caa59263"
+  },
+  {
+    "image": "atlas-093-monadology-8000x10000.png",
+    "sha256": "d67e35c09682b2b51ce705704e9b9e92a42ff7b32afec5d7648ca92197e6b440",
+    "bytes": 5941087,
+    "art_sha256": "d574d68d93427f96a76d897c6b0375d0fd0ff372e5c7c68eef699dfc4193b15c"
+  },
+  {
+    "image": "atlas-094-noesis-8000x10000.png",
+    "sha256": "5bc307dbda55196acba87c51daacf6c1e3dede2f0af31bd0af0ee24414ec7a32",
+    "bytes": 4402319,
+    "art_sha256": "89e209352af20104606264906359a8efd6ac49f7912894130f75bd186b560e13"
+  },
+  {
+    "image": "atlas-095-noema-8000x10000.png",
+    "sha256": "7e121d46749a8a65fef131f902ff1adb4e84299dd9251422d3173d25f5da5d38",
+    "bytes": 4244527,
+    "art_sha256": "6ec97a05a9750a4613d168119ea103ed200f5a4eeed3b04d89aa661f7a1814ce"
+  },
+  {
+    "image": "atlas-096-noumenon-8000x10000.png",
+    "sha256": "8fcd583ef695022dda7271a4169eab6a57ea3ae508fe06c7795ecb620e6477e9",
+    "bytes": 4664756,
+    "art_sha256": "0aa16ded912d2ba45fd021522f932ff8d3460e4e6ccee8f530b6e28828a784d2"
+  },
+  {
+    "image": "atlas-097-ontogenesis-8000x10000.png",
+    "sha256": "4d0fc5b7c41e4685e4571bd09a40ac5b8db6e5eb3dc274281897b3e1b06ab1df",
+    "bytes": 4504405,
+    "art_sha256": "4f83a0451dd4f21959b713140a3ac1185f921badfc813a18c1aefa40cb2e5d85"
+  },
+  {
+    "image": "atlas-098-paradiastole-8000x10000.png",
+    "sha256": "4c610383418068235a3cf5208388d8c643fadc8b0fc6d7cbc919c3d55809dd1b",
+    "bytes": 4578883,
+    "art_sha256": "5694b46089292bbb2c2ff479afcda9b6e1be57252ce7e7f6d6ba77d99d4ecf7b"
+  },
+  {
+    "image": "atlas-099-paronomasia-8000x10000.png",
+    "sha256": "216afa892d2e589ff0de6e3158778bf79effa57de783e2d072527b3aeace3783",
+    "bytes": 4517469,
+    "art_sha256": "196558a000f0085fbd5cffedddcd4edf8437c10c764dbbf9dddb4f6e0b57bf23"
+  },
+  {
+    "image": "atlas-100-peripeteia-8000x10000.png",
+    "sha256": "6ee2fb9ad70c43d905cf01a643c7a51a126f6e3c7213c809ea7df80d37a6670e",
+    "bytes": 4327611,
+    "art_sha256": "cc29597a2a73cfa900dade1252bb9f43009e9405b392b9437b83ee342cc31582"
+  },
+  {
+    "image": "atlas-101-pharmakon-8000x10000.png",
+    "sha256": "c98e4e3d6b1d70bae631d61d35f3d8f41c6e067a74f117cd4dd1547f00395186",
+    "bytes": 4746832,
+    "art_sha256": "a5da549f354dc51a403b73f33f8a9867f5567e79737f21a7e02084f0910db410"
+  },
+  {
+    "image": "atlas-102-pleroma-8000x10000.png",
+    "sha256": "51aca6fe753f77a354fe9c66624e74872946ca3de914f724a423c92f9d996964",
+    "bytes": 6797008,
+    "art_sha256": "54a119f09cf4dfb6ff65d3f51baa69b0cfab23bfa650859f0ec3f09cdbf423c2"
+  },
+  {
+    "image": "atlas-103-prosopopoeia-8000x10000.png",
+    "sha256": "3a46a666999c575ee47b40ae4e784df72df78382e1643400aa7a4048128f7ca9",
+    "bytes": 3853596,
+    "art_sha256": "fda4743664991dfcf63f8ce42e7a06951a17580b8ebf4d9870d639f9d43108f4"
+  },
+  {
+    "image": "atlas-104-prolepsis-8000x10000.png",
+    "sha256": "e0fc8cb9139dfc0eb722fb47c415b9b0628a5d364ffa2b40434233f3ae825f98",
+    "bytes": 4517079,
+    "art_sha256": "b0f876bdfc3e1141035df2f7f0fca917210527eabbb575eddad69eabce10299b"
+  },
+  {
+    "image": "atlas-105-prohairesis-8000x10000.png",
+    "sha256": "ed22476dbec830b319939664622be64b253aca72a52b61badfef2f06a4e0247f",
+    "bytes": 5020266,
+    "art_sha256": "01ca650670c8c045d3ab97f9e0a900c25f51e2781e3e42f4c58112e5efd87967"
+  },
+  {
+    "image": "atlas-106-rhizome-8000x10000.png",
+    "sha256": "126291eb4fd7925faa4a37bbbb5b7a91a30dc795aadc8d58763d32e9d7a7f316",
+    "bytes": 5855460,
+    "art_sha256": "cacbff118f30cf15159c5b7238728008526622d645bddb2613bb2322d31504ba"
+  },
+  {
+    "image": "atlas-107-simulacrum-8000x10000.png",
+    "sha256": "b3e661df9593178187c0044ebff4b869fc6f744890d40f1282a45c8e662c4c89",
+    "bytes": 3743096,
+    "art_sha256": "54c428c9570bc77317eaa8d61a43490507ffee071a075e17d5f1ac09ece0dc43"
+  },
+  {
+    "image": "atlas-108-syncretism-8000x10000.png",
+    "sha256": "84ec350f8d5a5b8fcd697b877770924f488a30faac1dc9aabe4a6ae0537f1885",
+    "bytes": 5259394,
+    "art_sha256": "5bc5c00556a9a4ebd6ac956aa03443f8b87c831f6bef47276990c39decbbfbb8"
+  },
+  {
+    "image": "atlas-109-syzygy-8000x10000.png",
+    "sha256": "c353316c55f27673aac2feb8327c7a1e24fb3dcd2cd564fde8afb6f2b003a8ab",
+    "bytes": 4889312,
+    "art_sha256": "076c83dafcfe08cdafbd8b02a76b2a4fa44d528b147e27b6ad0bbb607474b2b4"
+  },
+  {
+    "image": "atlas-110-teleopoiesis-8000x10000.png",
+    "sha256": "93a8bc66659b5c5baad5227386c0d204cd92ab3d4d436639ed6e1f911d3b52d6",
+    "bytes": 3350966,
+    "art_sha256": "d7f804b125078f503eaa9abd6f35f0707d1260c5519540c404d788b2fc018405"
+  },
+  {
+    "image": "atlas-111-zeugma-8000x10000.png",
+    "sha256": "8b34487c032cd54990cfd7686e866c437d0b8a75492930174c17c2539731d322",
+    "bytes": 3907372,
+    "art_sha256": "c241e4819bb8f9e7a920c5697b2c9fa84a2d4ba584f89dc6463c74f92622c000"
+  }
+]

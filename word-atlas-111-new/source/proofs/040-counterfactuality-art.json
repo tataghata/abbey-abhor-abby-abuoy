@@ -1,0 +1,12 @@
+{
+  "stem": "040-counterfactuality",
+  "triangles": 126720,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.131363671875,
+  "render_seconds": 0.67,
+  "method": "local-procedural-3d"
+}

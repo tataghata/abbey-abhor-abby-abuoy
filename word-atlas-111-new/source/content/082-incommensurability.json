@@ -1,0 +1,31 @@
+{
+  "index": 82,
+  "slug": "incommensurability",
+  "word": "incommensurability",
+  "pronunciation": "",
+  "tagline": "Comparison need not possess a single exact ruler",
+  "definition": "The absence of a common measure adequate to express a relationship, ranging from an exact mathematical property to philosophical difficulties in comparing standards, values, or the conceptual vocabularies of theories.",
+  "etymology": "From Latin-based in-, not, and commensurable, measurable by a common standard; the latter combines com-, together, with mensura, measure.",
+  "sections": [
+    {
+      "heading": "The mathematical claim",
+      "text": "A square's diagonal is its side multiplied by the square root of two. Since that ratio is irrational, no positive unit measures both lengths as whole-number multiples. This is exact incommensurability, compatible with arbitrarily accurate numerical approximations and perfectly ordinary geometric knowledge of both lengths."
+    },
+    {
+      "heading": "Frameworks and their standards",
+      "text": "In discussions associated with Kuhn, scientific frameworks may organize concepts, evidence, and problems differently. Incommensurability here concerns obstacles to a fully neutral common measure or translation. It does not establish that scientists inhabit sealed worlds, cannot learn another vocabulary, or lack reasons for preferring a theory."
+    },
+    {
+      "heading": "Values resist one currency",
+      "text": "Friendship and income can both matter without fitting one scale that exhaustively represents their value. Choosing between demands may still be possible. The philosophical point is that deliberation need not begin with a complete numerical ranking in order to be responsible, intelligible, or practically necessary."
+    },
+    {
+      "heading": "Difference needs an argument",
+      "text": "Calling things incommensurable is a substantive claim, not a dignified way of refusing comparison. Identify the proposed measure, explain which features it loses, and distinguish exact impossibility from practical difficulty. Otherwise the term can turn a demanding question about standards into an unexplained prohibition on thinking."
+    }
+  ],
+  "literary": "He brought a ruler to the song and a balance to the farewell, and both instruments answered faithfully with numbers that could not say what he had come to weigh.",
+  "art_caption": "A square's side and diagonal share a figure but resist one integral measure; neighboring rulers suggest the limits of reduction.",
+  "accent": "95604A",
+  "theme": "201A32"
+}

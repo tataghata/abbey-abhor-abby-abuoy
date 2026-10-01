@@ -1,0 +1,12 @@
+{
+  "stem": "055-energeia",
+  "triangles": 108864,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.0515765625,
+  "render_seconds": 0.67,
+  "method": "local-procedural-3d"
+}

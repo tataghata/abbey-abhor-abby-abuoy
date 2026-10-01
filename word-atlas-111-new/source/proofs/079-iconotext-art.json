@@ -1,0 +1,12 @@
+{
+  "stem": "079-iconotext",
+  "triangles": 341098,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.2023095486111111,
+  "render_seconds": 0.77,
+  "method": "local-procedural-3d"
+}

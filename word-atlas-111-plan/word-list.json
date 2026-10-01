@@ -1,0 +1,557 @@
+[
+  {
+    "index": 1,
+    "slug": "ablaut",
+    "word": "ablaut"
+  },
+  {
+    "index": 2,
+    "slug": "aboulia",
+    "word": "aboulia"
+  },
+  {
+    "index": 3,
+    "slug": "acatalepsy",
+    "word": "acatalepsy"
+  },
+  {
+    "index": 4,
+    "slug": "acedia",
+    "word": "acedia"
+  },
+  {
+    "index": 5,
+    "slug": "adumbration",
+    "word": "adumbration"
+  },
+  {
+    "index": 6,
+    "slug": "aisthesis",
+    "word": "aisthesis"
+  },
+  {
+    "index": 7,
+    "slug": "aleatoricism",
+    "word": "aleatoricism"
+  },
+  {
+    "index": 8,
+    "slug": "alexithymia",
+    "word": "alexithymia"
+  },
+  {
+    "index": 9,
+    "slug": "allesthesia",
+    "word": "allesthesia"
+  },
+  {
+    "index": 10,
+    "slug": "allochrony",
+    "word": "allochrony"
+  },
+  {
+    "index": 11,
+    "slug": "amphiboly",
+    "word": "amphiboly"
+  },
+  {
+    "index": 12,
+    "slug": "anamnesis",
+    "word": "anamnesis"
+  },
+  {
+    "index": 13,
+    "slug": "anamorphosis",
+    "word": "anamorphosis"
+  },
+  {
+    "index": 14,
+    "slug": "anaphora",
+    "word": "anaphora"
+  },
+  {
+    "index": 15,
+    "slug": "anastrophe",
+    "word": "anastrophe"
+  },
+  {
+    "index": 16,
+    "slug": "aniconism",
+    "word": "aniconism"
+  },
+  {
+    "index": 17,
+    "slug": "antanaclasis",
+    "word": "antanaclasis"
+  },
+  {
+    "index": 18,
+    "slug": "antimetabole",
+    "word": "antimetabole"
+  },
+  {
+    "index": 19,
+    "slug": "antiphrasis",
+    "word": "antiphrasis"
+  },
+  {
+    "index": 20,
+    "slug": "antistrophe",
+    "word": "antistrophe"
+  },
+  {
+    "index": 21,
+    "slug": "aphanisis",
+    "word": "aphanisis"
+  },
+  {
+    "index": 22,
+    "slug": "apocatastasis",
+    "word": "apocatastasis"
+  },
+  {
+    "index": 23,
+    "slug": "aposiopesis",
+    "word": "aposiopesis"
+  },
+  {
+    "index": 24,
+    "slug": "apperception",
+    "word": "apperception"
+  },
+  {
+    "index": 25,
+    "slug": "appoggiatura",
+    "word": "appoggiatura"
+  },
+  {
+    "index": 26,
+    "slug": "arche",
+    "word": "archē"
+  },
+  {
+    "index": 27,
+    "slug": "asyndeton",
+    "word": "asyndeton"
+  },
+  {
+    "index": 28,
+    "slug": "ataraxia",
+    "word": "ataraxia"
+  },
+  {
+    "index": 29,
+    "slug": "autotelism",
+    "word": "autotelism"
+  },
+  {
+    "index": 30,
+    "slug": "bathos",
+    "word": "bathos"
+  },
+  {
+    "index": 31,
+    "slug": "bricolage",
+    "word": "bricolage"
+  },
+  {
+    "index": 32,
+    "slug": "catabasis",
+    "word": "catabasis"
+  },
+  {
+    "index": 33,
+    "slug": "catachresis",
+    "word": "catachresis"
+  },
+  {
+    "index": 34,
+    "slug": "cataphora",
+    "word": "cataphora"
+  },
+  {
+    "index": 35,
+    "slug": "catharsis",
+    "word": "catharsis"
+  },
+  {
+    "index": 36,
+    "slug": "chora",
+    "word": "chora"
+  },
+  {
+    "index": 37,
+    "slug": "chronotope",
+    "word": "chronotope"
+  },
+  {
+    "index": 38,
+    "slug": "concrescence",
+    "word": "concrescence"
+  },
+  {
+    "index": 39,
+    "slug": "conatus",
+    "word": "conatus"
+  },
+  {
+    "index": 40,
+    "slug": "counterfactuality",
+    "word": "counterfactuality"
+  },
+  {
+    "index": 41,
+    "slug": "defamiliarization",
+    "word": "defamiliarization"
+  },
+  {
+    "index": 42,
+    "slug": "dehiscence",
+    "word": "dehiscence"
+  },
+  {
+    "index": 43,
+    "slug": "derealization",
+    "word": "derealization"
+  },
+  {
+    "index": 44,
+    "slug": "diachronicity",
+    "word": "diachronicity"
+  },
+  {
+    "index": 45,
+    "slug": "differance",
+    "word": "différance"
+  },
+  {
+    "index": 46,
+    "slug": "disanalogy",
+    "word": "disanalogy"
+  },
+  {
+    "index": 47,
+    "slug": "dissensus",
+    "word": "dissensus"
+  },
+  {
+    "index": 48,
+    "slug": "dithyramb",
+    "word": "dithyramb"
+  },
+  {
+    "index": 49,
+    "slug": "ekphrasis",
+    "word": "ekphrasis"
+  },
+  {
+    "index": 50,
+    "slug": "echolalia",
+    "word": "echolalia"
+  },
+  {
+    "index": 51,
+    "slug": "eidolon",
+    "word": "eidolon"
+  },
+  {
+    "index": 52,
+    "slug": "ekstasis",
+    "word": "ekstasis"
+  },
+  {
+    "index": 53,
+    "slug": "elenchus",
+    "word": "elenchus"
+  },
+  {
+    "index": 54,
+    "slug": "enallage",
+    "word": "enallage"
+  },
+  {
+    "index": 55,
+    "slug": "energeia",
+    "word": "energeia"
+  },
+  {
+    "index": 56,
+    "slug": "entelechy",
+    "word": "entelechy"
+  },
+  {
+    "index": 57,
+    "slug": "enthymeme",
+    "word": "enthymeme"
+  },
+  {
+    "index": 58,
+    "slug": "epanalepsis",
+    "word": "epanalepsis"
+  },
+  {
+    "index": 59,
+    "slug": "epenthesis",
+    "word": "epenthesis"
+  },
+  {
+    "index": 60,
+    "slug": "epiphenomenon",
+    "word": "epiphenomenon"
+  },
+  {
+    "index": 61,
+    "slug": "episteme",
+    "word": "episteme"
+  },
+  {
+    "index": 62,
+    "slug": "epizeuxis",
+    "word": "epizeuxis"
+  },
+  {
+    "index": 63,
+    "slug": "equifinality",
+    "word": "equifinality"
+  },
+  {
+    "index": 64,
+    "slug": "eschaton",
+    "word": "eschaton"
+  },
+  {
+    "index": 65,
+    "slug": "eucatastrophe",
+    "word": "eucatastrophe"
+  },
+  {
+    "index": 66,
+    "slug": "exaptation",
+    "word": "exaptation"
+  },
+  {
+    "index": 67,
+    "slug": "exergue",
+    "word": "exergue"
+  },
+  {
+    "index": 68,
+    "slug": "exophora",
+    "word": "exophora"
+  },
+  {
+    "index": 69,
+    "slug": "facticity",
+    "word": "facticity"
+  },
+  {
+    "index": 70,
+    "slug": "fissiparity",
+    "word": "fissiparity"
+  },
+  {
+    "index": 71,
+    "slug": "fulguration",
+    "word": "fulguration"
+  },
+  {
+    "index": 72,
+    "slug": "gnosis",
+    "word": "gnosis"
+  },
+  {
+    "index": 73,
+    "slug": "hendiadys",
+    "word": "hendiadys"
+  },
+  {
+    "index": 74,
+    "slug": "heterotopia",
+    "word": "heterotopia"
+  },
+  {
+    "index": 75,
+    "slug": "holophrasis",
+    "word": "holophrasis"
+  },
+  {
+    "index": 76,
+    "slug": "homoioteleuton",
+    "word": "homoioteleuton"
+  },
+  {
+    "index": 77,
+    "slug": "hypostasis",
+    "word": "hypostasis"
+  },
+  {
+    "index": 78,
+    "slug": "hypotaxis",
+    "word": "hypotaxis"
+  },
+  {
+    "index": 79,
+    "slug": "iconotext",
+    "word": "iconotext"
+  },
+  {
+    "index": 80,
+    "slug": "illeism",
+    "word": "illeism"
+  },
+  {
+    "index": 81,
+    "slug": "immanence",
+    "word": "immanence"
+  },
+  {
+    "index": 82,
+    "slug": "incommensurability",
+    "word": "incommensurability"
+  },
+  {
+    "index": 83,
+    "slug": "indexicality",
+    "word": "indexicality"
+  },
+  {
+    "index": 84,
+    "slug": "interpellation",
+    "word": "interpellation"
+  },
+  {
+    "index": 85,
+    "slug": "isomorphism",
+    "word": "isomorphism"
+  },
+  {
+    "index": 86,
+    "slug": "kairos",
+    "word": "kairos"
+  },
+  {
+    "index": 87,
+    "slug": "kenosis",
+    "word": "kenosis"
+  },
+  {
+    "index": 88,
+    "slug": "logopoeia",
+    "word": "logopoeia"
+  },
+  {
+    "index": 89,
+    "slug": "mereology",
+    "word": "mereology"
+  },
+  {
+    "index": 90,
+    "slug": "metanoia",
+    "word": "metanoia"
+  },
+  {
+    "index": 91,
+    "slug": "metempsychosis",
+    "word": "metempsychosis"
+  },
+  {
+    "index": 92,
+    "slug": "mimesis",
+    "word": "mimesis"
+  },
+  {
+    "index": 93,
+    "slug": "monadology",
+    "word": "monadology"
+  },
+  {
+    "index": 94,
+    "slug": "noesis",
+    "word": "noesis"
+  },
+  {
+    "index": 95,
+    "slug": "noema",
+    "word": "noema"
+  },
+  {
+    "index": 96,
+    "slug": "noumenon",
+    "word": "noumenon"
+  },
+  {
+    "index": 97,
+    "slug": "ontogenesis",
+    "word": "ontogenesis"
+  },
+  {
+    "index": 98,
+    "slug": "paradiastole",
+    "word": "paradiastole"
+  },
+  {
+    "index": 99,
+    "slug": "paronomasia",
+    "word": "paronomasia"
+  },
+  {
+    "index": 100,
+    "slug": "peripeteia",
+    "word": "peripeteia"
+  },
+  {
+    "index": 101,
+    "slug": "pharmakon",
+    "word": "pharmakon"
+  },
+  {
+    "index": 102,
+    "slug": "pleroma",
+    "word": "pleroma"
+  },
+  {
+    "index": 103,
+    "slug": "prosopopoeia",
+    "word": "prosopopoeia"
+  },
+  {
+    "index": 104,
+    "slug": "prolepsis",
+    "word": "prolepsis"
+  },
+  {
+    "index": 105,
+    "slug": "prohairesis",
+    "word": "prohairesis"
+  },
+  {
+    "index": 106,
+    "slug": "rhizome",
+    "word": "rhizome"
+  },
+  {
+    "index": 107,
+    "slug": "simulacrum",
+    "word": "simulacrum"
+  },
+  {
+    "index": 108,
+    "slug": "syncretism",
+    "word": "syncretism"
+  },
+  {
+    "index": 109,
+    "slug": "syzygy",
+    "word": "syzygy"
+  },
+  {
+    "index": 110,
+    "slug": "teleopoiesis",
+    "word": "teleopoiesis"
+  },
+  {
+    "index": 111,
+    "slug": "zeugma",
+    "word": "zeugma"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "stem": "039-conatus",
+  "triangles": 60204,
+  "dimensions": [
+    1800,
+    800
+  ],
+  "fit": 1.0,
+  "coverage": 0.2294972222222222,
+  "render_seconds": 0.04,
+  "method": "local-procedural-3d"
+}

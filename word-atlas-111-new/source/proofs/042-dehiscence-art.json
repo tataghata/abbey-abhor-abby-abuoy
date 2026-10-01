@@ -1,0 +1,12 @@
+{
+  "stem": "042-dehiscence",
+  "triangles": 111060,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.1368295138888889,
+  "render_seconds": 0.71,
+  "method": "local-procedural-3d"
+}

@@ -1,0 +1,12 @@
+{
+  "stem": "009-allesthesia",
+  "triangles": 184368,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.08136280381944444,
+  "render_seconds": 0.75,
+  "method": "local-procedural-3d"
+}

@@ -1,0 +1,12 @@
+{
+  "stem": "043-derealization",
+  "triangles": 136136,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.12043875868055555,
+  "render_seconds": 0.68,
+  "method": "local-procedural-3d"
+}

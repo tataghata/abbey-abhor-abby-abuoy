@@ -1,0 +1,12 @@
+{
+  "stem": "038-concrescence",
+  "triangles": 132588,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.23022183159722223,
+  "render_seconds": 0.8,
+  "method": "local-procedural-3d"
+}

@@ -1,0 +1,12 @@
+{
+  "stem": "080-illeism",
+  "triangles": 110264,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.08083467881944445,
+  "render_seconds": 0.68,
+  "method": "local-procedural-3d"
+}

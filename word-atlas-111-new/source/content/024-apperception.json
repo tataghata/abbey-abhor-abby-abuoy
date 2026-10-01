@@ -1,0 +1,31 @@
+{
+  "index": 24,
+  "slug": "apperception",
+  "word": "apperception",
+  "definition": "Conscious apprehension understood through awareness of one's own perceiving or through the integration of new experience with an existing mental organization, with substantially different technical formulations across philosophical and psychological traditions.",
+  "etymology": "From French aperception and philosophical Latin formations related to percipere, to perceive, with an added prefix marking a further reflective apprehension.",
+  "tagline": "An experience is gathered into a perspective that owns it",
+  "art_caption": "Separate sensory fragments converge through a frame and become one organized configuration.",
+  "sections": [
+    {
+      "heading": "Recognition through existing organization",
+      "text": "A chess player sees a meaningful position where a novice may see scattered pieces. This illustrates a common psychological use of apperception: new experience is understood through an existing organization of knowledge. The example concerns interpretation shaped by learning, not a claim that experienced players perceive an entirely different physical board."
+    },
+    {
+      "heading": "Leibniz and conscious awareness",
+      "text": "Leibniz distinguishes apperception, or conscious awareness, from perception understood more broadly. That distinction belongs to his philosophical system and should not be reduced to the modern example of recognizing a familiar pattern. The shared word marks a related concern with awareness, but its theoretical commitments differ across historical authors."
+    },
+    {
+      "heading": "Kant and the unity of experience",
+      "text": "Kant's transcendental unity of apperception concerns the unity expressed by the possibility that “I think” accompanies representations. It is not merely the memory of earlier perceptions or a psychological habit of recognition. His question addresses conditions under which representations can belong together within a unified experience for a subject."
+    },
+    {
+      "heading": "Identify the explanatory level",
+      "text": "Ask whether a passage concerns learned interpretation, conscious awareness, or a transcendental condition of unified experience. Then test the explanation against that level. A familiar illustration can provide an entry point, but it should not flatten distinct accounts into one mechanism simply because they all oppose an unrelated scatter of impressions."
+    }
+  ],
+  "pronunciation": "",
+  "literary": "The rook was first a black shape, then a remembered danger, then his danger, as the mind gathered the scattered board beneath the almost invisible roof of mine.",
+  "accent": "378F8E",
+  "theme": "201A32"
+}

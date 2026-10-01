@@ -1,0 +1,31 @@
+{
+  "index": 34,
+  "slug": "cataphora",
+  "word": "cataphora",
+  "definition": "A referential dependency in which an expression is interpreted through material that appears later in the discourse, requiring the reader or listener to hold an initially incomplete reference until its identifying information arrives.",
+  "etymology": "A learned formation from Greek-derived kata- and a form related to pherein, to carry, used in grammar for forward reference.",
+  "tagline": "The reference runs ahead of the name that will settle it",
+  "art_caption": "An empty leading ring points forward to a later solid form through a returning thread.",
+  "sections": [
+    {
+      "heading": "Identification arrives later",
+      "text": "In “Before she spoke, Leila closed the window,” she can receive its interpretation from the later name Leila. Cataphora makes reference depend on material that follows. The sentence moves ahead while the reader temporarily holds an incompletely identified expression, then revises or confirms the relation once its referent becomes available."
+    },
+    {
+      "heading": "A contrast with backward reference",
+      "text": "“Leila arrived and she spoke” normally illustrates anaphora, where the relevant name precedes the pronoun. The difference concerns the direction of an interpretive dependency. It is not simply a contrast between past and future events: reference can look forward within a sentence whose entire story concerns something that happened long ago."
+    },
+    {
+      "heading": "Grammar constrains the relation",
+      "text": "Pronouns cannot freely refer to every later noun in every construction. Syntax, discourse, and context limit the possible reading, and a particular sentence may remain ambiguous. A useful analysis therefore identifies a plausible dependency instead of drawing an arrow toward any conveniently nearby name and assuming the grammar permits it."
+    },
+    {
+      "heading": "Different from foreshadowing",
+      "text": "Foreshadowing prepares an event, theme, or revelation; cataphora concerns how an expression receives its interpretation from later language. The effects can coexist but require different evidence. To test a passage, specify which expression is initially incomplete and which later wording supplies its identification, rather than pointing only to an atmosphere of anticipation."
+    }
+  ],
+  "pronunciation": "",
+  "literary": "Before she had a name in the story, she had already opened its locked window, and only afterward did Leila arrive to inhabit the pronoun that had preceded her.",
+  "accent": "378F8E",
+  "theme": "201A32"
+}

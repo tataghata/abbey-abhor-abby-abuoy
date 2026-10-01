@@ -1,0 +1,33 @@
+{
+  "images": 111,
+  "dimensions_each": [
+    8000,
+    10000
+  ],
+  "megapixels_each": 80,
+  "dpi": 400,
+  "srgb_tagged_images": 111,
+  "unique_images": 111,
+  "unique_native_artworks": 111,
+  "png_chunk_checksums": "passed",
+  "image_bytes": 504059130,
+  "companion_words": 58784,
+  "valid_gallery_links": 670,
+  "pdf": {
+    "pages": 111,
+    "bookmarks": 111,
+    "page_inches": [
+      20,
+      25
+    ],
+    "all_poster_text_verified": true,
+    "bytes": 267409217
+  },
+  "visual_review": {
+    "native_artworks_reviewed": 111,
+    "selected_assembled_pages_reviewed": true,
+    "text_overflow": false
+  },
+  "gallery_javascript_syntax": "passed",
+  "notes_match_current_poster_text": true
+}

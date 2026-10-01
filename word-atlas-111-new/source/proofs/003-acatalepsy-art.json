@@ -1,0 +1,12 @@
+{
+  "stem": "003-acatalepsy",
+  "triangles": 152784,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.20616410590277778,
+  "render_seconds": 0.78,
+  "method": "local-procedural-3d"
+}

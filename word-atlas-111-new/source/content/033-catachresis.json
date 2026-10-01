@@ -1,0 +1,31 @@
+{
+  "index": 33,
+  "slug": "catachresis",
+  "word": "catachresis",
+  "definition": "A strained, transferred, or seemingly improper use of a word, ranging from a necessary borrowed expression where literal vocabulary is lacking to a conspicuous metaphor that crosses or unsettles familiar semantic categories.",
+  "etymology": "From Greek katakhrēsis, misuse or excessive use, related to khrēsthai, to use; rhetoric gives the apparently negative term several productive senses.",
+  "tagline": "A borrowed word bends beyond its accustomed joint",
+  "art_caption": "A chairlike frame grows a leaf and a flowing branch where literal supports would normally stand.",
+  "sections": [
+    {
+      "heading": "Naming through an available analogy",
+      "text": "Calling a chair's support a leg illustrates a traditional account of catachresis: a borrowed expression supplies a name where a straightforward literal vocabulary is lacking. Such usage can become ordinary enough that its transfer is hardly noticed. The figure therefore need not sound conspicuously strange to remain historically or analytically interesting."
+    },
+    {
+      "heading": "Semantic strain made audible",
+      "text": "“The silence chewed the horizon” foregrounds a crossing of familiar categories. The words push against their ordinary combinations, inviting interpretation through a strained transfer. This use differs in effect from an established phrase such as the leg of a chair, even though rhetorical discussions may place both within catachresis's range."
+    },
+    {
+      "heading": "The border with metaphor shifts",
+      "text": "Rhetorical traditions disagree over where catachresis ends and metaphor begins. Some theoretical accounts make that unstable boundary central, asking how supposedly literal language depends on earlier transfers. The word should not be reduced to a simple insult meaning bad metaphor, since necessary naming and productive invention can also be involved."
+    },
+    {
+      "heading": "Name the work of the strain",
+      "text": "When a phrase sounds improper, explain which categories it crosses and what the crossing makes available. Then test whether a plain paraphrase preserves its meaning. This distinguishes expressive pressure from accidental confusion while allowing that a successful catachresis may create a relation for which no fully equivalent literal substitute exists."
+    }
+  ],
+  "pronunciation": "",
+  "literary": "The silence chewed the horizon with its window teeth, and somewhere behind the bitten evening a house tried to remember the proper verb for being slowly unlived.",
+  "accent": "378F8E",
+  "theme": "201A32"
+}

@@ -1,0 +1,31 @@
+{
+  "index": 10,
+  "slug": "allochrony",
+  "word": "allochrony",
+  "definition": "A difference or separation in timing; in evolutionary biology, temporal differences in activities such as reproduction can reduce interaction or interbreeding, while other disciplines use the term within distinct theoretical frameworks.",
+  "etymology": "Built from Greek-derived allos, other or different, and chronos, time; its technical meanings depend on the discipline in which it appears.",
+  "tagline": "Sharing a place does not guarantee sharing a time",
+  "art_caption": "Two interleaved orbital schedules occupy one field while their active intervals fail to meet.",
+  "sections": [
+    {
+      "heading": "Separation without a barrier",
+      "text": "Two populations can inhabit the same region yet reproduce at different times. Their breeding schedules may reduce interbreeding even without a mountain or river between them. This biological use of allochrony concerns temporal separation as a possible contributor to divergence, not a conclusion that distinct species necessarily already exist."
+    },
+    {
+      "heading": "The relevant clock matters",
+      "text": "Daily activity, seasonal flowering, and multi-year life cycles organize different opportunities for interaction. The important question is which timing difference affects the process under study. A calendar contrast becomes explanatory when it changes actual overlap, access, or reproduction, rather than merely providing two dates that happen to differ."
+    },
+    {
+      "heading": "Another discipline, another problem",
+      "text": "Anthropological criticism uses allochronic representation for ways of placing contemporaneous peoples into imagined earlier historical stages. This denial of coevalness concerns representation and power. It should not be confused with biological reproductive timing, even though both senses make a separation in time central to their explanation or critique."
+    },
+    {
+      "heading": "Check whose present is recognized",
+      "text": "Compare a biological description of different breeding seasons with a travel account calling living people remnants of the past. Ask what kind of separation each statement produces and what evidence it requires. The exercise preserves the shared temporal theme while preventing one discipline's mechanism from being imported into another's argument."
+    }
+  ],
+  "pronunciation": "",
+  "literary": "They inhabited the same meadow, yet spring opened one body's calendar and autumn the other's, so that a season, thinner than air, became the country neither could cross.",
+  "accent": "677D97",
+  "theme": "201A32"
+}

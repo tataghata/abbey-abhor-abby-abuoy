@@ -1,0 +1,9 @@
+{
+  "built_in_image_tool_available": false,
+  "openai_api_key_configured": false,
+  "openai_package_installed": true,
+  "bundled_fallback_script_exists": true,
+  "api_fallback_explicitly_authorized": false,
+  "generation_calls_made": 0,
+  "generated_images_in_this_batch": 0
+}

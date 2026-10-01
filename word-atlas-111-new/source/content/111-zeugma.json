@@ -1,0 +1,31 @@
+{
+  "index": 111,
+  "slug": "zeugma",
+  "word": "zeugma",
+  "pronunciation": "",
+  "tagline": "One grammatical yoke draws unlike meanings together",
+  "definition": "A rhetorical construction in which one word governs or applies to multiple parts of a sentence, often with a shift in sense that binds unlike things into a compact, surprising expression.",
+  "etymology": "From Greek zeugma, a yoke or joining, related to zeugnynai, to yoke; the rhetorical term evokes one element binding several others.",
+  "sections": [
+    {
+      "heading": "One word takes two loads",
+      "text": "“She lost her keys and her temper” makes one verb govern two objects while changing its sense. A material possession is misplaced; emotional self-control gives way. The grammatical economy holds both actions together and lets their difference become conspicuous through the pressure placed on the shared verb."
+    },
+    {
+      "heading": "Linkage and difference",
+      "text": "The surprise depends on a reader briefly carrying the first sense into the second object, then adjusting. This adjustment can be comic or poignant. It may connect public behavior with private feeling, compress a narrative, or reveal a judgment that two more straightforward sentences would leave less sharply associated."
+    },
+    {
+      "heading": "Handbooks draw different borders",
+      "text": "Writers distinguish zeugma and syllepsis in varying ways. Some emphasize shared grammatical government or omitted repetition; others focus on a shift of meaning or a mismatch in agreement. Naming the construction should therefore follow a description of what the sentence actually does, rather than pretending one terminology settles every case."
+    },
+    {
+      "heading": "Economy can become coercion",
+      "text": "A compact yoking can imply that unlike losses or actions belong together. Sometimes that relation illuminates; sometimes it trivializes one side or conceals an unsupported comparison. Ask what the shared word invites the reader to equate and whether the resulting association deserves the force its clever phrasing supplies."
+    }
+  ],
+  "literary": "At the final station he surrendered his ticket and his certainty, carrying into the rain a suitcase whose broken clasp could no longer hold his shirts or the shape of his departure.",
+  "art_caption": "One clasp branches toward a suitcase and a bird: a shared connection binds the material and the emotional without making them identical.",
+  "accent": "766296",
+  "theme": "201A32"
+}

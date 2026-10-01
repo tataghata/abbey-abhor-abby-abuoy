@@ -1,0 +1,31 @@
+{
+  "index": 14,
+  "slug": "anaphora",
+  "word": "anaphora",
+  "definition": "In rhetoric, repetition at the beginnings of successive clauses or phrases; in linguistics, a dependency through which an expression receives its interpretation from another expression, usually one already introduced in discourse.",
+  "etymology": "From Greek anaphora, a carrying back or repetition, combining ana- with a form related to pherein, to carry or bear.",
+  "tagline": "A beginning that returns, a reference that looks back",
+  "art_caption": "Repeated leading beads initiate parallel strands; one shared anchor gathers their backward references.",
+  "sections": [
+    {
+      "heading": "The repeated beginning",
+      "text": "“We waited in rain; we waited in dust; we waited after hope” organizes successive clauses through the same opening. Rhetorical anaphora makes recurrence audible before the clauses diverge. The repetition can establish insistence, ritual, solidarity, or exhaustion, depending on what follows and how the passage changes across its repeated starts."
+    },
+    {
+      "heading": "The referring expression",
+      "text": "In “Mira arrived; she sat down,” she can receive its interpretation from Mira. Linguistic anaphora concerns that dependency rather than repeated wording. Pronouns, definite descriptions, and other expressions can participate in such relations, with syntax, discourse, and context constraining how an antecedent becomes available to a reader or listener."
+    },
+    {
+      "heading": "Two analyses, one inherited term",
+      "text": "Rhetorical repetition need not establish reference, and a referential expression need not repeat its antecedent's sound. Keeping the uses distinct allows a passage to be analyzed in both ways without confusion. A repeated pronoun may participate in both phenomena, but the criteria remain different even when their effects interact."
+    },
+    {
+      "heading": "Follow beginnings and dependencies",
+      "text": "Underline the opening words of successive clauses, then separately draw arrows from referring expressions to their likely antecedents. Compare the patterns. This simple exercise distinguishes rhythmic organization from referential interpretation and shows where a writer makes repeated language stabilize a voice while other expressions keep its identity or object uncertain."
+    }
+  ],
+  "pronunciation": "",
+  "literary": "Before the tide, we gathered shells; before the verdict, we gathered names; before the silence, we gathered every little beginning the sea had failed to carry away.",
+  "accent": "378F8E",
+  "theme": "201A32"
+}

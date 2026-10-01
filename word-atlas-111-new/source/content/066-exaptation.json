@@ -1,0 +1,31 @@
+{
+  "index": 66,
+  "slug": "exaptation",
+  "word": "exaptation",
+  "pronunciation": "",
+  "tagline": "A useful inheritance acquires another use.",
+  "definition": "The cooption of a biological feature for a current role different from the role for which it originally evolved, or the functional recruitment of a feature that previously had no selected function.",
+  "etymology": "Coined by Stephen Jay Gould and Elisabeth Vrba in 1982, using ex- and adaptation to distinguish coopted usefulness from original adaptive origin.",
+  "sections": [
+    {
+      "heading": "MEANING IN MOTION",
+      "text": "Feathers that existed before powered flight illustrate how a structure can later contribute to a different function, although the evolutionary histories and original roles of feathers require careful evidence. Exaptation distinguishes current usefulness from historical origin: a trait's present benefit does not by itself reveal why it arose."
+    },
+    {
+      "heading": "THE CRUCIAL DISTINCTION",
+      "text": "It may subsequently undergo adaptations that improve its newer role. The term also appears metaphorically in discussions of technology, but biological exaptation involves evolutionary histories rather than an inventor's deliberate redesign. Neither the concept nor a plausible story substitutes for testing a specific historical explanation."
+    },
+    {
+      "heading": "PRESENT BENEFIT, PAST ORIGIN",
+      "text": "To explain why a trait is useful now is not yet to explain why it arose. A historical account needs evidence that separates earlier conditions from later recruitment. Comparing related organisms and preserved structures can help test that account, whereas a convenient story about present usefulness cannot establish it."
+    },
+    {
+      "heading": "FUNCTIONS CAN ACCUMULATE",
+      "text": "Cooption need not abolish an earlier role. A structure can contribute to several functions, and later selection can refine a newly acquired one. The important distinction concerns historical relations among origin, recruitment, and subsequent modification; those relations may be complex rather than a neat switch between two exclusive purposes."
+    }
+  ],
+  "literary": "The feather entered the air with an older biography folded into its vanes, and flight made use of that inheritance without having been the purpose that first summoned it.",
+  "art_caption": "Related feather structures appear in different functional relations, preserving material continuity while changing the role.",
+  "accent": "3C6484",
+  "theme": "201A32"
+}

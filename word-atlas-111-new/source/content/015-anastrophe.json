@@ -1,0 +1,31 @@
+{
+  "index": 15,
+  "slug": "anastrophe",
+  "word": "anastrophe",
+  "definition": "A rhetorical inversion of an expected word order, used to alter emphasis, rhythm, or tone, whose effect depends on the ordinary syntactic possibilities and conventions of the particular language being used.",
+  "etymology": "From Greek anastrophē, a turning back or reversal, related to ana- and strephein, to turn, through rhetorical terminology. The inherited image is one of redirected order.",
+  "tagline": "The familiar order turns its face another way",
+  "art_caption": "A three-part sequence exchanges its outer elements through a visible elevated loop.",
+  "sections": [
+    {
+      "heading": "Expectation redirected",
+      "text": "“Bright was the morning” reverses the more ordinary English sequence “The morning was bright.” The adjective arrives first, changing how attention enters the statement. Anastrophe depends on a felt expectation of order; without that background, there is no particular reversal for a listener to experience as marked or expressive."
+    },
+    {
+      "heading": "Grammar and rhetorical choice",
+      "text": "Inversion can remain grammatical while producing unusual emphasis or cadence. It belongs to the broad family often discussed under hyperbaton, though handbooks draw boundaries differently. The effect should be described through the actual arrangement rather than settled by a label whose historical definitions may overlap or compete."
+    },
+    {
+      "heading": "Languages distribute freedom differently",
+      "text": "A flexible word-order language does not organize emphasis exactly as English does. Even within English, questions, quotations, poetic conventions, and particular constructions establish different norms. Calling an order inverted therefore requires a relevant comparison, not a universal assumption that one sequence is natural for every language and circumstance."
+    },
+    {
+      "heading": "Restore, then compare",
+      "text": "Rewrite an inverted line in its most ordinary prose order and read both aloud. Note the changed stress, first image, suspense, and rhythm. If little changes beyond an antique tone, the inversion may be ornamental; if the arrangement redirects interpretation, its rhetorical function can be explained more precisely."
+    }
+  ],
+  "pronunciation": "",
+  "literary": "Heavy was the morning, and backward into its coat climbed the city, carrying in front of every ordinary errand the extraordinary weight that daylight usually keeps behind.",
+  "accent": "8B65AD",
+  "theme": "201A32"
+}

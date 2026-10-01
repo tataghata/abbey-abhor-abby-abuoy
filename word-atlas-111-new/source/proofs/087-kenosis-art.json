@@ -1,0 +1,12 @@
+{
+  "stem": "087-kenosis",
+  "triangles": 147702,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.1083703125,
+  "render_seconds": 0.71,
+  "method": "local-procedural-3d"
+}

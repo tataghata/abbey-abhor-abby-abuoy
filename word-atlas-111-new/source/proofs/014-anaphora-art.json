@@ -1,0 +1,12 @@
+{
+  "stem": "014-anaphora",
+  "triangles": 357552,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.11101493055555556,
+  "render_seconds": 0.75,
+  "method": "local-procedural-3d"
+}

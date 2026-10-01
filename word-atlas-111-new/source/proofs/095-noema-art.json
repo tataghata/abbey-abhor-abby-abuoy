@@ -1,0 +1,12 @@
+{
+  "stem": "095-noema",
+  "triangles": 139160,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.14086966145833332,
+  "render_seconds": 0.72,
+  "method": "local-procedural-3d"
+}

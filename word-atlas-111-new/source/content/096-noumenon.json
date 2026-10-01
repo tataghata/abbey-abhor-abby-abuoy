@@ -1,0 +1,31 @@
+{
+  "index": 96,
+  "slug": "noumenon",
+  "word": "noumenon",
+  "pronunciation": "",
+  "tagline": "A boundary of knowledge is not a hidden exhibit",
+  "definition": "In Kant's critical philosophy, something considered independently of our sensible intuition; negatively, the concept marks a limit of sensible knowledge, while its positive sense would require an intellectual intuition humans do not possess.",
+  "etymology": "From Greek noumenon, what is thought or apprehended intellectually, a participial form related to noein; Kant's technical usage imposes further distinctions.",
+  "sections": [
+    {
+      "heading": "The sensible condition",
+      "text": "Kant examines how objects can appear under human forms of sensibility and be known through the understanding. A noumenon is considered apart from sensible intuition. The term therefore belongs to an inquiry into the conditions and limits of knowledge, not to an inventory of unusually mysterious observable things."
+    },
+    {
+      "heading": "Negative and positive senses",
+      "text": "Negatively, the noumenal concept limits the claim that everything must be knowable through our sensible mode of access. Positively, it would concern an object of intellectual intuition. Kant does not grant that nonsensible intuitive capacity to human knowers, so the positive concept supplies no ordinary route to discovery."
+    },
+    {
+      "heading": "Do not furnish the beyond",
+      "text": "A noumenon is not thereby an invisible object whose color, location, and intentions can be confidently described. Using the concept to decorate a hidden world with properties would exceed the very limits it helps articulate. Thinkability and warranted knowledge do not become identical simply because perception cannot reach something."
+    },
+    {
+      "heading": "The neighboring terminology",
+      "text": "“Thing in itself” and “noumenon” are closely related in interpretations of Kant, but their precise relation remains a matter for careful reading. Treating them as effortless synonyms can obscure distinctions between considering an object independently of our conditions and claiming a special kind of nonsensible access to it."
+    }
+  ],
+  "literary": "Beyond the window's conditions he imagined no second landscape he could honestly paint, only the necessary hesitation of a brush that knew its light was also its limit.",
+  "art_caption": "A folded screen marks the limit of access; no object behind it is supplied for the viewer to mistake for knowledge.",
+  "accent": "AD793B",
+  "theme": "201A32"
+}

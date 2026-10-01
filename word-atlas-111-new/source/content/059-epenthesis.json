@@ -1,0 +1,31 @@
+{
+  "index": 59,
+  "slug": "epenthesis",
+  "word": "epenthesis",
+  "pronunciation": "",
+  "tagline": "A sound arrives inside the sequence.",
+  "definition": "The insertion or development of an additional speech sound within a word or sound sequence, often serving phonological patterns or easing an otherwise disfavored combination of sounds in a language.",
+  "etymology": "From Greek epenthesis, insertion, built around the idea of putting something in; the linguistic term specializes this meaning for added sounds.",
+  "sections": [
+    {
+      "heading": "MEANING IN MOTION",
+      "text": "Some speakers pronounce something like a brief p between the m and th of warmth; such an inserted consonant illustrates epenthesis. Languages may also insert vowels to accommodate borrowed consonant clusters that their sound patterns do not permit. Sound patterns govern the insertion."
+    },
+    {
+      "heading": "THE CRUCIAL DISTINCTION",
+      "text": "The phenomenon concerns pronunciation and phonological organization, so spelling alone is not a reliable guide. It differs from deletion and from metathesis, which changes sound order. An epenthetic sound is not automatically a mistake: its status depends on the language, variety, historical development, and level of analysis being used."
+    },
+    {
+      "heading": "ARTICULATION HAS TIMING",
+      "text": "Between neighboring speech gestures, a brief additional sound can emerge through their coordination. In some pronunciations of warmth, the transition from a nasal toward the following consonant can produce a stoplike interval. The example concerns articulatory timing, not the conscious decision to add a written letter."
+    },
+    {
+      "heading": "BORROWING CHANGES THE FIT",
+      "text": "A borrowed word may contain clusters disallowed by the receiving language's sound patterns. Inserting a vowel can adapt the sequence to those patterns. Comparing the source and borrowed pronunciations reveals how languages reshape inherited material; copying a spelling does not guarantee copying its syllable structure."
+    }
+  ],
+  "literary": "Between the mouth's two difficult neighbors a small uninvited sound built itself a room, and soon the whole word crossed that threshold as though the doorway had always existed.",
+  "art_caption": "An additional central bead joins an existing chain, while an elevated precursor marks the act of insertion.",
+  "accent": "675187",
+  "theme": "201A32"
+}

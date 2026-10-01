@@ -1,0 +1,12 @@
+{
+  "stem": "031-bricolage",
+  "triangles": 114624,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.14851749131944444,
+  "render_seconds": 0.73,
+  "method": "local-procedural-3d"
+}

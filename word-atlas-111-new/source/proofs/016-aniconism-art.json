@@ -1,0 +1,12 @@
+{
+  "stem": "016-aniconism",
+  "triangles": 303504,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.17533289930555557,
+  "render_seconds": 0.72,
+  "method": "local-procedural-3d"
+}

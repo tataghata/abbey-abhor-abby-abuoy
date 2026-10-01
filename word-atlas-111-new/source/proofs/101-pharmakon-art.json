@@ -1,0 +1,12 @@
+{
+  "stem": "101-pharmakon",
+  "triangles": 121664,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.12993489583333334,
+  "render_seconds": 0.73,
+  "method": "local-procedural-3d"
+}

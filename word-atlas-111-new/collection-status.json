@@ -1,0 +1,24 @@
+{
+  "requested_images": 111,
+  "completed_images": 111,
+  "status": "complete",
+  "rendering_method": "local-procedural-3d",
+  "user_selected_method": "local",
+  "final_dimensions": [
+    8000,
+    10000
+  ],
+  "native_art_dimensions": [
+    7200,
+    3200
+  ],
+  "format": "lossless PNG",
+  "dpi": 400,
+  "color_space": "sRGB",
+  "companion_words": 58784,
+  "gallery": "index.html",
+  "print_edition": "word-atlas-111-print.pdf",
+  "validation": "validation.json",
+  "original_briefs": "../word-atlas-111-plan/batch-plan.json",
+  "completed_at_utc": "2026-10-01T14:31:47.478608+00:00"
+}

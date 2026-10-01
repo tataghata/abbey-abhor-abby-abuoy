@@ -1,0 +1,31 @@
+{
+  "index": 97,
+  "slug": "ontogenesis",
+  "word": "ontogenesis",
+  "pronunciation": "",
+  "tagline": "An individual arrives through organized becoming",
+  "definition": "The coming-into-being and development of an individual organism or entity; in biology it overlaps with ontogeny, while philosophical accounts may examine individuation as a process rather than presupposing completed individuals.",
+  "etymology": "Formed from Greek ont-, the stem associated with being, and genesis, origin or becoming; its disciplinary meaning depends on the context.",
+  "sections": [
+    {
+      "heading": "Development changes organization",
+      "text": "Biological ontogenesis concerns an individual organism's coming-into-being and development. An acorn becoming a sapling changes more than dimensions: tissues differentiate, structures emerge, and relationships among parts develop. The concept directs attention to the processes through which a living individual acquires and transforms its organized capacities over time."
+    },
+    {
+      "heading": "Different histories, different questions",
+      "text": "Ontogeny concerns individual development; phylogeny concerns the evolutionary history of lineages. Morphogenesis focuses especially on the formation of shape. These inquiries intersect, but they are not interchangeable. Explaining how one leaf develops is different from explaining how a lineage acquired a characteristic leaf form across generations."
+    },
+    {
+      "heading": "Individuation as a problem",
+      "text": "In Simondon's philosophical work, inquiry into ontogenesis emphasizes individuation: the individual emerges through processes that a description of finished individuals alone cannot adequately explain. This broader use is not merely another name for embryology. It changes the starting point of inquiry from completed entities to their coming about."
+    },
+    {
+      "heading": "The sequence is a simplification",
+      "text": "A row of developmental stages makes transformation legible, but real development includes feedback, environmental relations, and overlapping processes. It is not necessarily a march toward a single predetermined visible form. A careful account asks which conditions constrain development and which possibilities remain open at a particular stage."
+    }
+  ],
+  "literary": "The seed did not conceal a folded tree like a letter awaiting its reader; it negotiated root, rain, resistance, and light until a life acquired the shape of its becoming.",
+  "art_caption": "A seed-like form differentiates through clustered and radial stages into a growing stem; new organization accompanies increasing size.",
+  "accent": "397F79",
+  "theme": "201A32"
+}

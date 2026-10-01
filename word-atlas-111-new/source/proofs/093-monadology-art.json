@@ -1,0 +1,12 @@
+{
+  "stem": "093-monadology",
+  "triangles": 207144,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.2177454861111111,
+  "render_seconds": 0.82,
+  "method": "local-procedural-3d"
+}

@@ -1,0 +1,12 @@
+{
+  "stem": "094-noesis",
+  "triangles": 123024,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.07317625868055555,
+  "render_seconds": 0.69,
+  "method": "local-procedural-3d"
+}

@@ -1,0 +1,31 @@
+{
+  "index": 1,
+  "slug": "ablaut",
+  "word": "ablaut",
+  "definition": "A patterned alternation of vowels within related word forms, inherited or developed as part of a language's morphology, through which a changing sound can help distinguish grammatical relationships or lexical families.",
+  "etymology": "The German term combines ab, suggesting change or departure, with Laut, sound; it became established in nineteenth-century comparative grammar. It distinguishes patterned vowel gradation from other kinds of sound change.",
+  "tagline": "One consonantal body, several grammatical times",
+  "art_caption": "Three related frameworks preserve their structure while their central resonators change.",
+  "sections": [
+    {
+      "heading": "Variation with a memory",
+      "text": "In sing, sang, and sung, a recognizable consonantal frame survives while a vowel distinguishes grammatical forms. The pattern is not a decoration added to three unrelated words. It belongs to the historical organization of a verb, carrying relationships that present speakers can use without reconstructing their ancestry."
+    },
+    {
+      "heading": "A historical system",
+      "text": "Indo-European ablaut includes full grades, lengthened grades, and zero grade, where a vowel is absent. These are reconstructed relationships among forms, not instructions that ancient speakers consciously followed. English strong verbs preserve altered remnants of older systems rather than displaying that entire reconstructed system intact."
+    },
+    {
+      "heading": "The neighboring distinction",
+      "text": "Umlaut and ablaut both concern vowel differences, but their histories differ. Umlaut originates in the influence of a nearby sound; ablaut names a pattern of vowel gradation. Calling every internal vowel change ablaut loses the historical distinction that makes the technical term useful to comparative linguists."
+    },
+    {
+      "heading": "Listen across the paradigm",
+      "text": "Say sing, sang, sung slowly, then compare walk, walked. Ask which part supplies the grammatical contrast and which remains stable. The exercise reveals different morphological strategies. It does not license inventing historical explanations from sound alone: resemblance becomes evidence only within a wider comparison of related forms."
+    }
+  ],
+  "pronunciation": "",
+  "literary": "The singer sang until the sung thing outlived its singer, three vowels carrying one stubborn consonantal skeleton across the river where grammar changes the clothes of time.",
+  "accent": "BC7737",
+  "theme": "201A32"
+}

@@ -1,0 +1,641 @@
+{
+  "status": "passed",
+  "method": "local-procedural-3d",
+  "count": 37,
+  "note_words": 19174,
+  "note_word_range": [
+    502,
+    535
+  ],
+  "rows": [
+    {
+      "index": 38,
+      "slug": "concrescence",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "a6db3e36c6c9e762350ac7811fc3dd181c101d20ca713ea4b9954508413b5ec5",
+      "triangles": 132588,
+      "section_words": [
+        41,
+        48,
+        44,
+        44
+      ],
+      "note_words": 508
+    },
+    {
+      "index": 39,
+      "slug": "conatus",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "a73ab3c01bab58305ade878b18ead6639fff8633275b440fa3637473297c1782",
+      "triangles": 60204,
+      "section_words": [
+        52,
+        42,
+        44,
+        45
+      ],
+      "note_words": 512
+    },
+    {
+      "index": 40,
+      "slug": "counterfactuality",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "f38ac714e29d79987fa7c20bd1c4519cf9e7236f053732f3adf39bf27d7226d1",
+      "triangles": 126720,
+      "section_words": [
+        41,
+        45,
+        44,
+        46
+      ],
+      "note_words": 509
+    },
+    {
+      "index": 41,
+      "slug": "defamiliarization",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "e078305f8b78e95fb9ded138d1905f61a6d10ca08caacc7f741277f9b0bb91bc",
+      "triangles": 139768,
+      "section_words": [
+        42,
+        48,
+        46,
+        46
+      ],
+      "note_words": 506
+    },
+    {
+      "index": 42,
+      "slug": "dehiscence",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "b0469d29b1fdca9d2f8f61240e618767cdca7bc9ed93888b9708a2ee1d5a7814",
+      "triangles": 111060,
+      "section_words": [
+        42,
+        49,
+        46,
+        45
+      ],
+      "note_words": 511
+    },
+    {
+      "index": 43,
+      "slug": "derealization",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "dac93cd4a4d5604b94329a4ea7a00f94fd9572f1483a07906a20dbbbc60af740",
+      "triangles": 136136,
+      "section_words": [
+        40,
+        48,
+        46,
+        45
+      ],
+      "note_words": 511
+    },
+    {
+      "index": 44,
+      "slug": "diachronicity",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "1fa35cd2afbbf9e56b57a8496dde8a668b1da6b6537443d3b86b47fe36c03e47",
+      "triangles": 296496,
+      "section_words": [
+        40,
+        46,
+        45,
+        45
+      ],
+      "note_words": 502
+    },
+    {
+      "index": 45,
+      "slug": "differance",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "f7d1511dd876f3696237650c0be47d36e87df8349a7693cb20f6794d51a5bc5f",
+      "triangles": 199152,
+      "section_words": [
+        42,
+        47,
+        47,
+        44
+      ],
+      "note_words": 514
+    },
+    {
+      "index": 46,
+      "slug": "disanalogy",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "561859284b54b7d979cd72bdffe5201186cdda8d60698883587fa257399cf1c7",
+      "triangles": 151536,
+      "section_words": [
+        51,
+        42,
+        47,
+        46
+      ],
+      "note_words": 514
+    },
+    {
+      "index": 47,
+      "slug": "dissensus",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "ad5c59b016d139f24d9cbd98f35d9efbdb61d4164097b9e1a1a7640abb46b140",
+      "triangles": 82060,
+      "section_words": [
+        41,
+        47,
+        44,
+        46
+      ],
+      "note_words": 514
+    },
+    {
+      "index": 48,
+      "slug": "dithyramb",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "f157f43bf490b2a50e697b5569c151a99a9c79161a92e46d9f44173eab3a8453",
+      "triangles": 354458,
+      "section_words": [
+        42,
+        46,
+        44,
+        46
+      ],
+      "note_words": 503
+    },
+    {
+      "index": 49,
+      "slug": "ekphrasis",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "45a34e113aeae4aa113c5575ede909f4f26535ce135c7b7d7579848d8e1530a2",
+      "triangles": 200922,
+      "section_words": [
+        45,
+        43,
+        46,
+        44
+      ],
+      "note_words": 514
+    },
+    {
+      "index": 50,
+      "slug": "echolalia",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "96052103d1d7e0e0336b856893678a05ad8616e793f4ff5834539275e0b32db9",
+      "triangles": 132624,
+      "section_words": [
+        40,
+        49,
+        46,
+        45
+      ],
+      "note_words": 506
+    },
+    {
+      "index": 51,
+      "slug": "eidolon",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "68b6ae2ca16d4707a779703ff62d19c3ae6d57611c9058d6e7a6f383d5987685",
+      "triangles": 159360,
+      "section_words": [
+        50,
+        44,
+        46,
+        46
+      ],
+      "note_words": 519
+    },
+    {
+      "index": 52,
+      "slug": "ekstasis",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "bb8337d014217e72789fec5871becc698c895add7614f16d44c56a907a4ae8aa",
+      "triangles": 215928,
+      "section_words": [
+        43,
+        45,
+        44,
+        46
+      ],
+      "note_words": 516
+    },
+    {
+      "index": 53,
+      "slug": "elenchus",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "7329ee3410d247f10c9a94ce0905e37115a65ce49ef7f03b84207a63419a466a",
+      "triangles": 211392,
+      "section_words": [
+        42,
+        49,
+        43,
+        46
+      ],
+      "note_words": 515
+    },
+    {
+      "index": 54,
+      "slug": "enallage",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "c4e757448ed6a8b95920f8a4b2006c4d51d27c23d3cba172ef6a87f02a9fdc4b",
+      "triangles": 99408,
+      "section_words": [
+        50,
+        43,
+        43,
+        46
+      ],
+      "note_words": 520
+    },
+    {
+      "index": 55,
+      "slug": "energeia",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "99463c64f07281e9d00e3edcbbb691829e8890ea9ae8d475b148cda691beb4c3",
+      "triangles": 108864,
+      "section_words": [
+        47,
+        44,
+        46,
+        45
+      ],
+      "note_words": 514
+    },
+    {
+      "index": 56,
+      "slug": "entelechy",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "9aeb82b01eac69099430a02cb463a2e6d158a613652672770e934af39f094eb2",
+      "triangles": 106528,
+      "section_words": [
+        42,
+        49,
+        46,
+        45
+      ],
+      "note_words": 517
+    },
+    {
+      "index": 57,
+      "slug": "enthymeme",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "0a2c0bf54d3595ae2a261284e43909ab7dd297aec97c77bc0c8fb22cc3906fa1",
+      "triangles": 93664,
+      "section_words": [
+        47,
+        40,
+        46,
+        45
+      ],
+      "note_words": 505
+    },
+    {
+      "index": 58,
+      "slug": "epanalepsis",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "1017933ea62c2f18acbe491b8e178c5c16f4997b70b5643dd7addb79bf71c290",
+      "triangles": 105016,
+      "section_words": [
+        45,
+        43,
+        47,
+        47
+      ],
+      "note_words": 524
+    },
+    {
+      "index": 59,
+      "slug": "epenthesis",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "307d0a0071489690532813ce0625a61a59ba03b9eacb6616f3b8519dcd24fd2c",
+      "triangles": 170160,
+      "section_words": [
+        43,
+        49,
+        46,
+        45
+      ],
+      "note_words": 518
+    },
+    {
+      "index": 60,
+      "slug": "epiphenomenon",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "b7def5e605fdc03a1091ee35bd4c55eca8143d2a16b5b0f17d2684afeaf0b7b4",
+      "triangles": 275414,
+      "section_words": [
+        52,
+        44,
+        47,
+        46
+      ],
+      "note_words": 528
+    },
+    {
+      "index": 61,
+      "slug": "episteme",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "7adfae5c534682503bebf9eb56386bae3e52b2f48eff28fa828fc98105e8c295",
+      "triangles": 92592,
+      "section_words": [
+        45,
+        52,
+        48,
+        47
+      ],
+      "note_words": 535
+    },
+    {
+      "index": 62,
+      "slug": "epizeuxis",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "35f5a96ecfaed0c19defe70d066e063159c0b44f9dd587a2db22139559954c3d",
+      "triangles": 203538,
+      "section_words": [
+        50,
+        45,
+        44,
+        47
+      ],
+      "note_words": 515
+    },
+    {
+      "index": 63,
+      "slug": "equifinality",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "fb3e82fd3d7f832dc82110a639642677d8499cd50f6827a0f513484f9567d4c8",
+      "triangles": 105432,
+      "section_words": [
+        51,
+        40,
+        47,
+        48
+      ],
+      "note_words": 516
+    },
+    {
+      "index": 64,
+      "slug": "eschaton",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "f34a859cefe3a3e28d92e21f6a76a9846cd70804b1f1c025c2012670fa987504",
+      "triangles": 124946,
+      "section_words": [
+        47,
+        42,
+        48,
+        47
+      ],
+      "note_words": 524
+    },
+    {
+      "index": 65,
+      "slug": "eucatastrophe",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "945f79f96876d2d1ff55ad2022f955964145d4a1ffc8793fa576d63186f50bc7",
+      "triangles": 87828,
+      "section_words": [
+        51,
+        40,
+        45,
+        46
+      ],
+      "note_words": 523
+    },
+    {
+      "index": 66,
+      "slug": "exaptation",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "29a09c4989c9e9afbc6d85993dcc2c8459df3ec9f23892c9a08b5cfed16c8e79",
+      "triangles": 377984,
+      "section_words": [
+        48,
+        45,
+        49,
+        49
+      ],
+      "note_words": 520
+    },
+    {
+      "index": 67,
+      "slug": "exergue",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "fda82d092eb675f1126cd656b27a68654e85cbd1e9346c9ddd9df29a871356fb",
+      "triangles": 201768,
+      "section_words": [
+        44,
+        48,
+        48,
+        47
+      ],
+      "note_words": 524
+    },
+    {
+      "index": 68,
+      "slug": "exophora",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "aed3bfe091dfb34c1a3e2cb1814578ba17f240fc9f2c4a0e480a32f0539bf54a",
+      "triangles": 60132,
+      "section_words": [
+        49,
+        41,
+        48,
+        47
+      ],
+      "note_words": 532
+    },
+    {
+      "index": 69,
+      "slug": "facticity",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "a7ef44bd438a5a85a0d357d7e2e49a98f29cd918e5214183b4e1de8d23ca5af8",
+      "triangles": 112302,
+      "section_words": [
+        46,
+        45,
+        47,
+        48
+      ],
+      "note_words": 534
+    },
+    {
+      "index": 70,
+      "slug": "fissiparity",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "f19dfe9d3d87b9b5964a0a4b1ca4c0f10f7b0989d5d5335c2e9f87a06a215c08",
+      "triangles": 274224,
+      "section_words": [
+        42,
+        48,
+        45,
+        48
+      ],
+      "note_words": 528
+    },
+    {
+      "index": 71,
+      "slug": "fulguration",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "a59e4c7087f42bdc1e58db9b3a71f7266c7e38a8310bd95d5d29c8526b24c8a8",
+      "triangles": 204768,
+      "section_words": [
+        44,
+        51,
+        46,
+        46
+      ],
+      "note_words": 527
+    },
+    {
+      "index": 72,
+      "slug": "gnosis",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "291b18b00a51242731ba29c2822a0e374c411195188422c5c8880fb72a841de5",
+      "triangles": 117672,
+      "section_words": [
+        42,
+        50,
+        48,
+        47
+      ],
+      "note_words": 533
+    },
+    {
+      "index": 73,
+      "slug": "hendiadys",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "ff51df2a2f24e9f6b18ed740201a1ddaa1ca0234210cfb94cf3918dae2bddab5",
+      "triangles": 160108,
+      "section_words": [
+        46,
+        44,
+        49,
+        48
+      ],
+      "note_words": 530
+    },
+    {
+      "index": 74,
+      "slug": "heterotopia",
+      "dimensions": [
+        7200,
+        3200
+      ],
+      "sha256": "ac093a4077a65f807fadd066209afd0a6466b51058c791259765c6ab1b8f72a2",
+      "triangles": 304572,
+      "section_words": [
+        43,
+        55,
+        46,
+        45
+      ],
+      "note_words": 533
+    }
+  ]
+}

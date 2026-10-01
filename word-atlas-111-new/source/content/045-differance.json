@@ -1,0 +1,31 @@
+{
+  "index": 45,
+  "slug": "differance",
+  "word": "différance",
+  "pronunciation": "",
+  "tagline": "Meaning differs, and its arrival is deferred.",
+  "definition": "Derrida's deliberately altered spelling naming the intertwined differentiation and deferral through which signs signify, challenging the idea that meaning originates in a fully present, self sufficient foundation or final signified.",
+  "etymology": "Derrida modifies French différence using différer, which can mean both to differ and to defer; the changed vowel is not pronounced differently.",
+  "sections": [
+    {
+      "heading": "MEANING IN MOTION",
+      "text": "A word becomes intelligible through differences from other words, while explaining it sends us onward to further signs rather than delivering meaning outside signification. Derrida's spelling joins these spatial and temporal movements without naming a simple object or ultimate cause behind them."
+    },
+    {
+      "heading": "THE CRUCIAL DISTINCTION",
+      "text": "The substituted letter is visible in writing but inaudible in standard French pronunciation, unsettling a familiar preference for speech. Différance does not mean that every interpretation is equally defensible. It questions pure presence and final closure while leaving particular readings answerable to textual differences, contexts, and traces."
+    },
+    {
+      "heading": "TRACE WITHOUT A LOST ORIGIN",
+      "text": "To call a mark a trace is not simply to say that it records an earlier, fully present object. It bears relations to what is absent from its immediate appearance. The past and anticipated future of a word participate in what seems to be its present meaning."
+    },
+    {
+      "heading": "READING AN OPPOSITION",
+      "text": "Consider calling one version of a story the original and another a copy. The original becomes identifiable through the possibility of repetition, quotation, and alteration. Reading this dependency closely complicates its apparent independence without claiming that the two versions have identical histories or authority."
+    }
+  ],
+  "literary": "Each footprint explained the traveler by another absence, while the road, postponing its promised arrival, borrowed its direction from crossroads that were already elsewhere and not yet finished departing.",
+  "art_caption": "Offset incomplete contours become legible through their neighbors without producing a final resolving plate.",
+  "accent": "296F69",
+  "theme": "201A32"
+}

@@ -1,0 +1,31 @@
+{
+  "index": 106,
+  "slug": "rhizome",
+  "word": "rhizome",
+  "pronunciation": "",
+  "tagline": "Growth can travel sideways without one commanding trunk",
+  "definition": "A usually horizontal plant stem that produces shoots and roots from nodes; in Deleuze and Guattari's philosophy, a model of multiplicity and connection that challenges exclusively hierarchical, tree-like accounts of organization.",
+  "etymology": "From Greek rhizōma, a mass of roots or something rooted, related to rhiza, root; modern botany specifically identifies a modified stem.",
+  "sections": [
+    {
+      "heading": "Botanical specificity matters",
+      "text": "A rhizome is a modified plant stem, commonly horizontal and underground, whose nodes can produce roots and shoots. Ginger provides a familiar example. Calling it merely a root loses the distinction that makes its pattern of growth informative: new development can arise along a segmented, extending stem."
+    },
+    {
+      "heading": "A philosophical borrowing",
+      "text": "Deleuze and Guattari use the rhizome to think about multiplicities, heterogeneous connections, and organizations with multiple entries. Their figure challenges the assumption that every intelligible system must derive from one trunk or a single governing hierarchy. It is an intervention in philosophical description rather than a complete botanical taxonomy."
+    },
+    {
+      "heading": "Networks still have power",
+      "text": "Decentralization does not guarantee equality, freedom, or resilience in every circumstance. Networks can develop dominant hubs, exclusions, and unequal access; hierarchies can coexist with lateral connections. The concept becomes stronger when it encourages investigation of these relations instead of serving as an automatic compliment for anything that looks interconnected."
+    },
+    {
+      "heading": "Follow the actual pathways",
+      "text": "Ask where movement can begin, what a break interrupts, how a new connection changes the arrangement, and who controls important passages. Such questions turn the philosophical image into an analytical prompt. They also prevent a densely branching drawing from substituting for an explanation of how a particular organization operates."
+    }
+  ],
+  "literary": "Beneath the map's obedient avenues another city traveled sideways, sending up doorways wherever a buried junction found rain, and no citizen could discover the capital of its branching conversation.",
+  "art_caption": "A lateral stem sends roots, shoots, and cross-connections from many nodes; no single junction governs the entire composition.",
+  "accent": "95604A",
+  "theme": "201A32"
+}

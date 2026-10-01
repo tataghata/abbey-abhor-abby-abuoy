@@ -1,0 +1,4 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+/three-0.186.0.tgz

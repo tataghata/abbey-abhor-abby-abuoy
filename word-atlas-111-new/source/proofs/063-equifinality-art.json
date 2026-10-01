@@ -1,0 +1,12 @@
+{
+  "stem": "063-equifinality",
+  "triangles": 105432,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.12033138020833334,
+  "render_seconds": 0.69,
+  "method": "local-procedural-3d"
+}

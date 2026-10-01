@@ -1,0 +1,31 @@
+{
+  "index": 89,
+  "slug": "mereology",
+  "word": "mereology",
+  "pronunciation": "",
+  "tagline": "A whole is not simply a set with better furniture",
+  "definition": "The study of parts and wholes, including how things compose larger things, whether parts can overlap, and what principles govern the relationship between an entity and what belongs to it.",
+  "etymology": "From Greek meros, part, and -logy, study or account; the term names inquiry into the formal relations of parts and wholes.",
+  "sections": [
+    {
+      "heading": "The question of parthood",
+      "text": "Mereology asks how parts relate to wholes and to one another. A spoke belongs to a wheel, and the wheel belongs to a bicycle. Many systems treat parthood as transitive, so that the spoke is also part of the bicycle, while distinguishing ordinary from proper parthood."
+    },
+    {
+      "heading": "Overlap and composition",
+      "text": "Two things overlap when they share a part in the relevant system. Composition asks a further question: under what conditions do some things together form another thing? Philosophers disagree about whether any collection composes a whole or whether connection, function, life, or other restrictions are required."
+    },
+    {
+      "heading": "Membership is a different relation",
+      "text": "An element's membership in a set does not automatically behave like parthood. If a person belongs to a committee and that committee belongs to an association, set membership alone does not imply the person is a member of the association. Confusing the relations erases their distinct formal roles."
+    },
+    {
+      "heading": "Boundaries carry commitments",
+      "text": "An organism, an orchestra, and a heap invite different intuitions about what counts as a component or a whole. Mereology helps make those intuitions explicit. It does not guarantee that one everyday criterion resolves every case or that spatial contact alone settles questions of identity and composition."
+    }
+  ],
+  "literary": "The wheel claimed the spoke, the bicycle claimed the wheel, and the journey, which owned none of them, assembled their separate circles into the temporary wholeness of arrival.",
+  "art_caption": "A wheel, its smaller assembly, and one detached spoke stage different levels of parthood without equating parts with set members.",
+  "accent": "397F79",
+  "theme": "201A32"
+}

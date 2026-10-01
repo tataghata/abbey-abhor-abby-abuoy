@@ -1,0 +1,12 @@
+{
+  "stem": "041-defamiliarization",
+  "triangles": 139768,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.23323298611111112,
+  "render_seconds": 0.77,
+  "method": "local-procedural-3d"
+}

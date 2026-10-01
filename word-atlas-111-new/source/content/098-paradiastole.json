@@ -1,0 +1,31 @@
+{
+  "index": 98,
+  "slug": "paradiastole",
+  "word": "paradiastole",
+  "pronunciation": "",
+  "tagline": "One action crosses the border between virtue and vice",
+  "definition": "Rhetorical redescription that distinguishes closely related qualities, often recasting a morally questionable trait as an adjacent virtue or a supposed virtue as a vice, thereby shifting an audience's evaluation.",
+  "etymology": "From Greek paradiastolē, distinction or separation, related to paradiastellein, to distinguish; rhetorical tradition applies it to discriminating or redescribing neighboring qualities.",
+  "sections": [
+    {
+      "heading": "Redescription changes judgment",
+      "text": "Calling a refusal “steadfastness” rather than “stubbornness” moves conduct across an evaluative boundary. Paradiastole works among neighboring moral descriptions whose distinctions are contested. It is not merely exchanging one neutral synonym for another; the changed wording proposes a different account of what deserves approval or criticism."
+    },
+    {
+      "heading": "The circumstances decide",
+      "text": "Holding a position despite pressure might protect a vulnerable person or preserve a serious mistake. Facts about evidence, responsibility, consequences, and available alternatives help determine whether persistence counts as admirable. The rhetorical dispute cannot be resolved by choosing whichever adjective sounds most dignified in isolation."
+    },
+    {
+      "heading": "Manipulation and correction",
+      "text": "Paradiastole can launder a vice by giving it a flattering name, but it can also challenge an unjust accusation. Distinguishing prudent caution from cowardice may be a necessary ethical correction. The device's moral status depends on the adequacy of the distinction, not simply on its persuasive effectiveness."
+    },
+    {
+      "heading": "Descriptions already evaluate",
+      "text": "Accounts of conduct often combine reporting with judgment. “She abandoned the plan” and “she reconsidered the plan” can concern similar events while directing attention differently. Analysis asks what each formulation emphasizes or suppresses, then tests whether those emphases are supported by the circumstances rather than by preference alone."
+    }
+  ],
+  "literary": "The miser polished thrift until it shone like generosity's austere cousin, while outside his locked granary the hungry learned how brightly a virtue could reflect the light without releasing bread.",
+  "art_caption": "The same pointed form straddles opposed colored frames: evaluation changes around an unchanged object, inviting scrutiny of the description.",
+  "accent": "95604A",
+  "theme": "201A32"
+}

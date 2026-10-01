@@ -1,0 +1,310 @@
+{
+  "group": "A",
+  "indices": [
+    1,
+    37
+  ],
+  "artwork_count": 37,
+  "unique_artwork_count": 37,
+  "note_word_count": 19643,
+  "issues": [],
+  "visual_review": "Both contact sheets inspected; first two proofs reviewed separately. All compositions visible with margins; no clipped primary shapes.",
+  "entries": [
+    {
+      "index": 1,
+      "stem": "001-ablaut",
+      "note_words": 522,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "5fd1bc547b908e8895fd0139516e926f1f4bb2d86eb22cfd7662eb39b7735660"
+    },
+    {
+      "index": 2,
+      "stem": "002-aboulia",
+      "note_words": 524,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "e64e5bc60b071a47ca5cacb8484c231266e028ee75434d68cb8c4eed083ddb2c"
+    },
+    {
+      "index": 3,
+      "stem": "003-acatalepsy",
+      "note_words": 526,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "19d67431cedcaac9ff4f83acbe1ce403b610c70588afca2c866ec28ae928e9df"
+    },
+    {
+      "index": 4,
+      "stem": "004-acedia",
+      "note_words": 529,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "258fe836432f7e93fb217fdfa33bf9ac5878fc14f228c343c672865b9d96322c"
+    },
+    {
+      "index": 5,
+      "stem": "005-adumbration",
+      "note_words": 527,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "10e8262238ccda2986dc2ceea969f6e0d0de94805f750d4ab9a4fb04e2afb57e"
+    },
+    {
+      "index": 6,
+      "stem": "006-aisthesis",
+      "note_words": 533,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "0053d7783f6fb0763bcd755bfa2ec0118fc94b32d0d998fe60efb865d75bbf51"
+    },
+    {
+      "index": 7,
+      "stem": "007-aleatoricism",
+      "note_words": 526,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "431a11045d26e1cc19edbff6346ead6da3a33425dcebda545aa8d3930bcc92e0"
+    },
+    {
+      "index": 8,
+      "stem": "008-alexithymia",
+      "note_words": 542,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "cd93cd0d24ebae88f47ab0bd524db5658a2686160dbff9b4941db1eb7e6ea64a"
+    },
+    {
+      "index": 9,
+      "stem": "009-allesthesia",
+      "note_words": 537,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "307da39b83f6f24f0e7b231c6959144005baf79cd8297a69b97403df1b58ca61"
+    },
+    {
+      "index": 10,
+      "stem": "010-allochrony",
+      "note_words": 538,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "afa68168d45a83d60b3845d053a6bff525adf2747cf197733a20ecc6b39a6e1b"
+    },
+    {
+      "index": 11,
+      "stem": "011-amphiboly",
+      "note_words": 519,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "5e986399a70e797dd338bb5a0f0a9ad13c8cfdb62310addc24276a4d45694ecf"
+    },
+    {
+      "index": 12,
+      "stem": "012-anamnesis",
+      "note_words": 531,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "42c6940ad9fd707da954897e35808f40f65ef1a540cba091ef2ef04627c07db9"
+    },
+    {
+      "index": 13,
+      "stem": "013-anamorphosis",
+      "note_words": 523,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "6b1d6f390d07a6f007016e1c5092097d086064b641b4a9b01b4b3da265dc3b4b"
+    },
+    {
+      "index": 14,
+      "stem": "014-anaphora",
+      "note_words": 526,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "2d56ad7b4978dbab97aae2135f302fa41d4008404472916b8f19baa90af76656"
+    },
+    {
+      "index": 15,
+      "stem": "015-anastrophe",
+      "note_words": 522,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "7dacc8ec1f1327cc874b89cedda311ad5e8cdc36d25ab3d47a747e3d357b51e1"
+    },
+    {
+      "index": 16,
+      "stem": "016-aniconism",
+      "note_words": 525,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "c30626ccab364a34d13d01bf5efb4be3814394ad46fbef8f3f0b225c2287b5ad"
+    },
+    {
+      "index": 17,
+      "stem": "017-antanaclasis",
+      "note_words": 522,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "838539db1314618204bcf0689ab14e21cd5f61f78b79d68b73997bd53fe0a877"
+    },
+    {
+      "index": 18,
+      "stem": "018-antimetabole",
+      "note_words": 514,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "4cd17a3d527a97e6af774d687d83235ed2831518b517907415ba4233102fad4b"
+    },
+    {
+      "index": 19,
+      "stem": "019-antiphrasis",
+      "note_words": 517,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "322dafcb5746d0c2a853a9a7313ac714966ef02ed8106a6a3ca4fd8791d385a6"
+    },
+    {
+      "index": 20,
+      "stem": "020-antistrophe",
+      "note_words": 511,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "f98463711f89e05b6679817808a93ca1ee91c2aa131f5f8bc77f47d0169abedb"
+    },
+    {
+      "index": 21,
+      "stem": "021-aphanisis",
+      "note_words": 540,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "2c82d804bf5d7cdc59e9ad3ae74930ce025cbbf4f144f3e3795895ce6ccfdd2d"
+    },
+    {
+      "index": 22,
+      "stem": "022-apocatastasis",
+      "note_words": 530,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "918f91bc76f826c94145ff475d98d2eeab92d96c47fc6fc3ba62402598c2dafb"
+    },
+    {
+      "index": 23,
+      "stem": "023-aposiopesis",
+      "note_words": 522,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "37b955a034bc2bbabfe8b8378f099968086d8b1ae6e3698f853755817bf33dd5"
+    },
+    {
+      "index": 24,
+      "stem": "024-apperception",
+      "note_words": 535,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "f2f64ff7de9d7e6da7f60bd27e6c1f3625b4aa77148fa743444acb720d6810b3"
+    },
+    {
+      "index": 25,
+      "stem": "025-appoggiatura",
+      "note_words": 537,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "35e9c899a85d7645e3a3d8943e26bf147a96c8acd29999c9c166865c78603862"
+    },
+    {
+      "index": 26,
+      "stem": "026-arche",
+      "note_words": 539,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "50b9313af24f2299e3960364449a1da70042294741ccd42d5d3e491dc2551f4b"
+    },
+    {
+      "index": 27,
+      "stem": "027-asyndeton",
+      "note_words": 522,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "351f323716a345bcf99cff20c41735091dc465f7fdd2dd840a6f0c62503b4580"
+    },
+    {
+      "index": 28,
+      "stem": "028-ataraxia",
+      "note_words": 541,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "f4f48823fb70e99b6106c2bced4e037414525c07c7321964014a122b9a4d5cac"
+    },
+    {
+      "index": 29,
+      "stem": "029-autotelism",
+      "note_words": 531,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "425ad4cc43f17d322a385fe9e7211da48c5d984b20e681bb06507884104f4d2c"
+    },
+    {
+      "index": 30,
+      "stem": "030-bathos",
+      "note_words": 540,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "ccaf084baae44b51be34f8f73b6b0a8b5ddeecac5bce7ddbcd5840cfa6bbdaba"
+    },
+    {
+      "index": 31,
+      "stem": "031-bricolage",
+      "note_words": 536,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "d74e31f3762bbc84d7d256166401df4de363cc152ca05c15e82a1909e8dcaf97"
+    },
+    {
+      "index": 32,
+      "stem": "032-catabasis",
+      "note_words": 544,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "69c4f2917350ed6909242bd8878456a2194a14144b24af54763d7d9090e1999a"
+    },
+    {
+      "index": 33,
+      "stem": "033-catachresis",
+      "note_words": 542,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "b426b57333d2c9f4f0c65179d120892bd42c385d68efbab412c7d6e49aab74d1"
+    },
+    {
+      "index": 34,
+      "stem": "034-cataphora",
+      "note_words": 545,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "ab3be11dccda6ccdf160c81d980d55c27697fc66013f87827dd97af8429baf99"
+    },
+    {
+      "index": 35,
+      "stem": "035-catharsis",
+      "note_words": 537,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "a7bceaefa23e5c9ea62a089cdcba9c444a13b86c3621ab09d0c6159cd19eb7a2"
+    },
+    {
+      "index": 36,
+      "stem": "036-chora",
+      "note_words": 543,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "44d54c3efde6a94636e2d0d2d1a2f5dbf02538629aa3bff1b0f25f8bed9edbea"
+    },
+    {
+      "index": 37,
+      "stem": "037-chronotope",
+      "note_words": 545,
+      "width": 7200,
+      "height": 3200,
+      "sha256": "695668f51d9992096613d2e1b38f1290a8a017fbdfbed9fda7d182143433aae3"
+    }
+  ]
+}

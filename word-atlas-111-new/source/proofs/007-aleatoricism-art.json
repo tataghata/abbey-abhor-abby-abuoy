@@ -1,0 +1,12 @@
+{
+  "stem": "007-aleatoricism",
+  "triangles": 326496,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.09772578125,
+  "render_seconds": 0.74,
+  "method": "local-procedural-3d"
+}

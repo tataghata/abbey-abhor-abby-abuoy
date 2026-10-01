@@ -1,0 +1,12 @@
+{
+  "stem": "109-syzygy",
+  "triangles": 92360,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 0.9573246836662292,
+  "coverage": 0.13954913194444443,
+  "render_seconds": 0.75,
+  "method": "local-procedural-3d"
+}

@@ -1,0 +1,12 @@
+{
+  "stem": "005-adumbration",
+  "triangles": 376128,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.11504848090277778,
+  "render_seconds": 0.83,
+  "method": "local-procedural-3d"
+}

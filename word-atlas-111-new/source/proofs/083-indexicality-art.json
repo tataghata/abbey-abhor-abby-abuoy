@@ -1,0 +1,12 @@
+{
+  "stem": "083-indexicality",
+  "triangles": 159704,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.17316323784722223,
+  "render_seconds": 0.71,
+  "method": "local-procedural-3d"
+}

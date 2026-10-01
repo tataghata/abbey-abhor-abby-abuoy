@@ -1,0 +1,31 @@
+{
+  "index": 77,
+  "slug": "hypostasis",
+  "word": "hypostasis",
+  "pronunciation": "",
+  "tagline": "What stands beneath a name is tradition-dependent",
+  "definition": "A term for underlying reality or concrete subsistence whose meaning depends on its tradition; in classical Trinitarian theology, it distinguishes the three persons without dividing the single divine essence.",
+  "etymology": "From Greek hypostasis, a standing under, foundation, or subsistence, from hypo, under, and a formation related to histanai, to stand.",
+  "sections": [
+    {
+      "heading": "The term has a history",
+      "text": "Greek philosophical and theological writers did not always assign hypostasis the same task. Depending on period and argument, it can concern underlying reality, subsistence, or concrete existence. Reading it responsibly begins by locating its use within a particular controversy rather than importing a universal definition."
+    },
+    {
+      "heading": "Distinction without division",
+      "text": "In mature Greek Trinitarian language, one ousia and three hypostases distinguish divine essence from Father, Son, and Holy Spirit. The formula aims to preserve unity and real distinction together. It does not simply describe three pieces assembled into a larger divine object."
+    },
+    {
+      "heading": "The translation problem",
+      "text": "“Person” is a customary English rendering in that theological setting. Yet modern ideas of separate psychological subjects can distort its historical function. A translation can be useful while remaining imperfect: explaining what a term excludes may matter as much as finding one familiar replacement."
+    },
+    {
+      "heading": "When abstractions harden",
+      "text": "To hypostatize an abstraction is to treat it as though it possessed independent concrete existence. Calling “the market” an agent with a single will can invite that criticism. This related usage should not be confused with the technical theological distinction that gives hypostasis another life."
+    }
+  ],
+  "literary": "Under the name, under the face, under the thought that mistook its own mist for marble, something stood, refusing both the maskmaker's inventory and the accountant's division.",
+  "art_caption": "Three illuminated recesses share one continuous foundation: an explicitly limited architectural analogy for subsistence and distinction.",
+  "accent": "397F79",
+  "theme": "201A32"
+}

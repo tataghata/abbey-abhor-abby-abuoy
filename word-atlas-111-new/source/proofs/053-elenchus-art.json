@@ -1,0 +1,12 @@
+{
+  "stem": "053-elenchus",
+  "triangles": 211392,
+  "dimensions": [
+    7200,
+    3200
+  ],
+  "fit": 1.0,
+  "coverage": 0.05070143229166667,
+  "render_seconds": 0.68,
+  "method": "local-procedural-3d"
+}

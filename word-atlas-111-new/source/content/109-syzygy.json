@@ -1,0 +1,31 @@
+{
+  "index": 109,
+  "slug": "syzygy",
+  "word": "syzygy",
+  "pronunciation": "",
+  "tagline": "An alignment is a relation, not a promise of eclipse",
+  "definition": "A conjunction or alignment, especially an approximately straight-line configuration of celestial bodies; in other technical traditions, the word can name a pairing of associated or complementary elements rather than an astronomical event.",
+  "etymology": "From Greek syzygia, a yoking or pairing, related to syn-, together, and zygon, yoke; astronomical usage develops the image of alignment.",
+  "sections": [
+    {
+      "heading": "The astronomical configuration",
+      "text": "Syzygy commonly concerns an approximately straight-line arrangement of celestial bodies, especially the Sun, Earth, and Moon. New and full moons involve configurations discussed in this way. The word identifies a relation among bodies, not a new kind of object or a special substance linking them across space."
+    },
+    {
+      "heading": "An eclipse needs more",
+      "text": "The Moon's orbital plane is tilted relative to Earth's orbital plane around the Sun. An eclipse requires sufficiently exact alignment near the lunar nodes. Consequently the ordinary monthly configurations do not guarantee an eclipse, even though they can still be described through the broader astronomical vocabulary of syzygy."
+    },
+    {
+      "heading": "Joining beyond astronomy",
+      "text": "Some Gnostic systems use syzygy for pairs of associated aeons, and other disciplines develop additional specialized senses. The common image of joining or yoking provides a clue, not a complete explanation. Identify the entities and the relation being described before importing the geometry of an astronomical diagram elsewhere."
+    },
+    {
+      "heading": "An illustration has conventions",
+      "text": "A useful diagram compresses enormous distances and may enlarge the Moon to keep all three bodies legible. Those choices should be explicit, since visual proportions otherwise invite mistaken physical inferences. The sculpture presents an alignment as a conceptual relation, with neither orbital distances nor relative sizes offered as a scale model."
+    }
+  ],
+  "literary": "For one patient instant the three wandering lights seemed yoked to a single invisible furrow, and the tide, reading that celestial arrangement in its own salt grammar, shouldered the shore.",
+  "art_caption": "Three bodies line up at deliberately compressed distances; small arcs around the middle body suggest a relation beyond simple juxtaposition.",
+  "accent": "397F79",
+  "theme": "201A32"
+}
